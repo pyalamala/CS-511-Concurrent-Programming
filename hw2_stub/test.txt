@@ -1,0 +1,1019 @@
+Customer 1946798030: shoppingCart=[SOURDOUGH, RYE, RYE], shopTime=79, checkoutTime=27 is shopping
+Customer 1294647553: shoppingCart=[RYE, RYE], shopTime=11, checkoutTime=68 is shopping
+Customer 2085525571: shoppingCart=[RYE], shopTime=86, checkoutTime=58 is shopping
+Customer 1294647553: shoppingCart=[RYE, RYE], shopTime=11, checkoutTime=68 done shopping.
+Customer 1294647553: shoppingCart=[RYE, RYE], shopTime=11, checkoutTime=68 went to cashier
+Customer 1294647553: shoppingCart=[RYE, RYE], shopTime=11, checkoutTime=68 is checking out
+Customer 917027434: shoppingCart=[SOURDOUGH], shopTime=2, checkoutTime=8 is shopping
+Customer 917027434: shoppingCart=[SOURDOUGH], shopTime=2, checkoutTime=8 done shopping.
+Customer 917027434: shoppingCart=[SOURDOUGH], shopTime=2, checkoutTime=8 went to cashier
+Customer 1845038015: shoppingCart=[SOURDOUGH, RYE], shopTime=90, checkoutTime=64 is shopping
+Customer 1946798030: shoppingCart=[SOURDOUGH, RYE, RYE], shopTime=79, checkoutTime=27 done shopping.
+Customer 1946798030: shoppingCart=[SOURDOUGH, RYE, RYE], shopTime=79, checkoutTime=27 went to cashier
+Customer 498792788: shoppingCart=[SOURDOUGH, SOURDOUGH, RYE], shopTime=93, checkoutTime=49 is shopping
+Customer 1294647553: shoppingCart=[RYE, RYE], shopTime=11, checkoutTime=68 done checking out
+Customer 917027434: shoppingCart=[SOURDOUGH], shopTime=2, checkoutTime=8 is checking out
+Customer 2085525571: shoppingCart=[RYE], shopTime=86, checkoutTime=58 done shopping.
+Customer 2085525571: shoppingCart=[RYE], shopTime=86, checkoutTime=58 went to cashier
+Customer 595336556: shoppingCart=[WONDER, SOURDOUGH, RYE], shopTime=15, checkoutTime=36 is shopping
+Customer 917027434: shoppingCart=[SOURDOUGH], shopTime=2, checkoutTime=8 done checking out
+Customer 1946798030: shoppingCart=[SOURDOUGH, RYE, RYE], shopTime=79, checkoutTime=27 is checking out
+Customer 595336556: shoppingCart=[WONDER, SOURDOUGH, RYE], shopTime=15, checkoutTime=36 done shopping.
+Customer 595336556: shoppingCart=[WONDER, SOURDOUGH, RYE], shopTime=15, checkoutTime=36 went to cashier
+Customer 1707171960: shoppingCart=[WONDER], shopTime=17, checkoutTime=65 is shopping
+Customer 1845038015: shoppingCart=[SOURDOUGH, RYE], shopTime=90, checkoutTime=64 done shopping.
+Customer 1845038015: shoppingCart=[SOURDOUGH, RYE], shopTime=90, checkoutTime=64 went to cashier
+Customer 531909355: shoppingCart=[RYE, SOURDOUGH, RYE], shopTime=90, checkoutTime=50 is shopping
+Customer 1946798030: shoppingCart=[SOURDOUGH, RYE, RYE], shopTime=79, checkoutTime=27 done checking out
+Customer 2085525571: shoppingCart=[RYE], shopTime=86, checkoutTime=58 is checking out
+Customer 1707171960: shoppingCart=[WONDER], shopTime=17, checkoutTime=65 done shopping.
+Customer 1707171960: shoppingCart=[WONDER], shopTime=17, checkoutTime=65 went to cashier
+Customer 1066518539: shoppingCart=[SOURDOUGH], shopTime=91, checkoutTime=1 is shopping
+Customer 498792788: shoppingCart=[SOURDOUGH, SOURDOUGH, RYE], shopTime=93, checkoutTime=49 done shopping.
+Customer 1806506945: shoppingCart=[RYE], shopTime=44, checkoutTime=1 is shopping
+Customer 2085525571: shoppingCart=[RYE], shopTime=86, checkoutTime=58 done checking out
+Customer 498792788: shoppingCart=[SOURDOUGH, SOURDOUGH, RYE], shopTime=93, checkoutTime=49 went to cashier
+Customer 595336556: shoppingCart=[WONDER, SOURDOUGH, RYE], shopTime=15, checkoutTime=36 is checking out
+Customer 531909355: shoppingCart=[RYE, SOURDOUGH, RYE], shopTime=90, checkoutTime=50 done shopping.
+Customer 2039822139: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=61, checkoutTime=98 is shopping
+Customer 1066518539: shoppingCart=[SOURDOUGH], shopTime=91, checkoutTime=1 done shopping.
+Customer 118512990: shoppingCart=[RYE, RYE], shopTime=55, checkoutTime=10 is shopping
+Customer 595336556: shoppingCart=[WONDER, SOURDOUGH, RYE], shopTime=15, checkoutTime=36 done checking out
+Customer 531909355: shoppingCart=[RYE, SOURDOUGH, RYE], shopTime=90, checkoutTime=50 went to cashier
+Customer 1845038015: shoppingCart=[SOURDOUGH, RYE], shopTime=90, checkoutTime=64 is checking out
+Customer 1806506945: shoppingCart=[RYE], shopTime=44, checkoutTime=1 done shopping.
+Customer 1566487995: shoppingCart=[WONDER, RYE], shopTime=51, checkoutTime=36 is shopping
+Customer 2039822139: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=61, checkoutTime=98 done shopping.
+Customer 1051063655: shoppingCart=[RYE, RYE], shopTime=84, checkoutTime=6 is shopping
+Customer 118512990: shoppingCart=[RYE, RYE], shopTime=55, checkoutTime=10 done shopping.
+Customer 1186098983: shoppingCart=[RYE, SOURDOUGH, SOURDOUGH], shopTime=94, checkoutTime=3 is shopping
+Customer 1566487995: shoppingCart=[WONDER, RYE], shopTime=51, checkoutTime=36 done shopping.
+Customer 1555996892: shoppingCart=[SOURDOUGH], shopTime=99, checkoutTime=86 is shopping
+Customer 1845038015: shoppingCart=[SOURDOUGH, RYE], shopTime=90, checkoutTime=64 done checking out
+Customer 1707171960: shoppingCart=[WONDER], shopTime=17, checkoutTime=65 is checking out
+Customer 1066518539: shoppingCart=[SOURDOUGH], shopTime=91, checkoutTime=1 went to cashier
+Customer 1707171960: shoppingCart=[WONDER], shopTime=17, checkoutTime=65 done checking out
+Customer 1051063655: shoppingCart=[RYE, RYE], shopTime=84, checkoutTime=6 done shopping.
+Customer 1806506945: shoppingCart=[RYE], shopTime=44, checkoutTime=1 went to cashier
+Customer 498792788: shoppingCart=[SOURDOUGH, SOURDOUGH, RYE], shopTime=93, checkoutTime=49 is checking out
+Customer 486993282: shoppingCart=[RYE, RYE, SOURDOUGH], shopTime=13, checkoutTime=52 is shopping
+Customer 486993282: shoppingCart=[RYE, RYE, SOURDOUGH], shopTime=13, checkoutTime=52 done shopping.
+Customer 2009596795: shoppingCart=[WONDER, WONDER], shopTime=12, checkoutTime=27 is shopping
+Customer 1186098983: shoppingCart=[RYE, SOURDOUGH, SOURDOUGH], shopTime=94, checkoutTime=3 done shopping.
+Customer 1926072649: shoppingCart=[RYE], shopTime=82, checkoutTime=50 is shopping
+Customer 2009596795: shoppingCart=[WONDER, WONDER], shopTime=12, checkoutTime=27 done shopping.
+Customer 390601596: shoppingCart=[WONDER], shopTime=78, checkoutTime=75 is shopping
+Customer 1555996892: shoppingCart=[SOURDOUGH], shopTime=99, checkoutTime=86 done shopping.
+Customer 1223249161: shoppingCart=[RYE, WONDER, RYE], shopTime=68, checkoutTime=84 is shopping
+Customer 498792788: shoppingCart=[SOURDOUGH, SOURDOUGH, RYE], shopTime=93, checkoutTime=49 done checking out
+Customer 531909355: shoppingCart=[RYE, SOURDOUGH, RYE], shopTime=90, checkoutTime=50 is checking out
+Customer 2039822139: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=61, checkoutTime=98 went to cashier
+No RYE bread left! Restocking...
+Customer 531909355: shoppingCart=[RYE, SOURDOUGH, RYE], shopTime=90, checkoutTime=50 done checking out
+Customer 118512990: shoppingCart=[RYE, RYE], shopTime=55, checkoutTime=10 went to cashier
+Customer 1066518539: shoppingCart=[SOURDOUGH], shopTime=91, checkoutTime=1 is checking out
+Customer 1066518539: shoppingCart=[SOURDOUGH], shopTime=91, checkoutTime=1 done checking out
+Customer 1566487995: shoppingCart=[WONDER, RYE], shopTime=51, checkoutTime=36 went to cashier
+Customer 1806506945: shoppingCart=[RYE], shopTime=44, checkoutTime=1 is checking out
+Customer 1806506945: shoppingCart=[RYE], shopTime=44, checkoutTime=1 done checking out
+Customer 390601596: shoppingCart=[WONDER], shopTime=78, checkoutTime=75 done shopping.
+Customer 1051063655: shoppingCart=[RYE, RYE], shopTime=84, checkoutTime=6 went to cashier
+Customer 2039822139: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=61, checkoutTime=98 is checking out
+Customer 1640784377: shoppingCart=[RYE, WONDER, RYE], shopTime=22, checkoutTime=10 is shopping
+Customer 2039822139: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=61, checkoutTime=98 done checking out
+Customer 118512990: shoppingCart=[RYE, RYE], shopTime=55, checkoutTime=10 is checking out
+Customer 486993282: shoppingCart=[RYE, RYE, SOURDOUGH], shopTime=13, checkoutTime=52 went to cashier
+Customer 118512990: shoppingCart=[RYE, RYE], shopTime=55, checkoutTime=10 done checking out
+Customer 1566487995: shoppingCart=[WONDER, RYE], shopTime=51, checkoutTime=36 is checking out
+Customer 1186098983: shoppingCart=[RYE, SOURDOUGH, SOURDOUGH], shopTime=94, checkoutTime=3 went to cashier
+Customer 1566487995: shoppingCart=[WONDER, RYE], shopTime=51, checkoutTime=36 done checking out
+Customer 2009596795: shoppingCart=[WONDER, WONDER], shopTime=12, checkoutTime=27 went to cashier
+Customer 1051063655: shoppingCart=[RYE, RYE], shopTime=84, checkoutTime=6 is checking out
+Customer 1051063655: shoppingCart=[RYE, RYE], shopTime=84, checkoutTime=6 done checking out
+Customer 486993282: shoppingCart=[RYE, RYE, SOURDOUGH], shopTime=13, checkoutTime=52 is checking out
+Customer 1555996892: shoppingCart=[SOURDOUGH], shopTime=99, checkoutTime=86 went to cashier
+Customer 486993282: shoppingCart=[RYE, RYE, SOURDOUGH], shopTime=13, checkoutTime=52 done checking out
+Customer 390601596: shoppingCart=[WONDER], shopTime=78, checkoutTime=75 went to cashier
+Customer 1186098983: shoppingCart=[RYE, SOURDOUGH, SOURDOUGH], shopTime=94, checkoutTime=3 is checking out
+Customer 1186098983: shoppingCart=[RYE, SOURDOUGH, SOURDOUGH], shopTime=94, checkoutTime=3 done checking out
+Customer 2009596795: shoppingCart=[WONDER, WONDER], shopTime=12, checkoutTime=27 is checking out
+Customer 2009596795: shoppingCart=[WONDER, WONDER], shopTime=12, checkoutTime=27 done checking out
+Customer 1555996892: shoppingCart=[SOURDOUGH], shopTime=99, checkoutTime=86 is checking out
+Customer 1555996892: shoppingCart=[SOURDOUGH], shopTime=99, checkoutTime=86 done checking out
+Customer 390601596: shoppingCart=[WONDER], shopTime=78, checkoutTime=75 is checking out
+Customer 390601596: shoppingCart=[WONDER], shopTime=78, checkoutTime=75 done checking out
+Customer 1223249161: shoppingCart=[RYE, WONDER, RYE], shopTime=68, checkoutTime=84 done shopping.
+Customer 1926072649: shoppingCart=[RYE], shopTime=82, checkoutTime=50 done shopping.
+Customer 1640784377: shoppingCart=[RYE, WONDER, RYE], shopTime=22, checkoutTime=10 done shopping.
+Customer 241143419: shoppingCart=[RYE, SOURDOUGH], shopTime=88, checkoutTime=60 is shopping
+Customer 1926072649: shoppingCart=[RYE], shopTime=82, checkoutTime=50 went to cashier
+Customer 1640784377: shoppingCart=[RYE, WONDER, RYE], shopTime=22, checkoutTime=10 went to cashier
+Customer 1926072649: shoppingCart=[RYE], shopTime=82, checkoutTime=50 is checking out
+Customer 1223249161: shoppingCart=[RYE, WONDER, RYE], shopTime=68, checkoutTime=84 went to cashier
+Customer 369204343: shoppingCart=[WONDER, RYE, WONDER], shopTime=62, checkoutTime=60 is shopping
+Customer 1755920124: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=88, checkoutTime=78 is shopping
+Customer 1926072649: shoppingCart=[RYE], shopTime=82, checkoutTime=50 done checking out
+Customer 1640784377: shoppingCart=[RYE, WONDER, RYE], shopTime=22, checkoutTime=10 is checking out
+Customer 1640784377: shoppingCart=[RYE, WONDER, RYE], shopTime=22, checkoutTime=10 done checking out
+Customer 1223249161: shoppingCart=[RYE, WONDER, RYE], shopTime=68, checkoutTime=84 is checking out
+Customer 369204343: shoppingCart=[WONDER, RYE, WONDER], shopTime=62, checkoutTime=60 done shopping.
+Customer 369204343: shoppingCart=[WONDER, RYE, WONDER], shopTime=62, checkoutTime=60 went to cashier
+Customer 1651451095: shoppingCart=[SOURDOUGH, RYE], shopTime=28, checkoutTime=1 is shopping
+Customer 1755920124: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=88, checkoutTime=78 done shopping.
+Customer 241143419: shoppingCart=[RYE, SOURDOUGH], shopTime=88, checkoutTime=60 done shopping.
+Customer 169727211: shoppingCart=[SOURDOUGH], shopTime=85, checkoutTime=85 is shopping
+Customer 241143419: shoppingCart=[RYE, SOURDOUGH], shopTime=88, checkoutTime=60 went to cashier
+Customer 1755920124: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=88, checkoutTime=78 went to cashier
+Customer 1503122488: shoppingCart=[RYE, WONDER, WONDER], shopTime=92, checkoutTime=26 is shopping
+Customer 1651451095: shoppingCart=[SOURDOUGH, RYE], shopTime=28, checkoutTime=1 done shopping.
+Customer 1643687345: shoppingCart=[RYE], shopTime=71, checkoutTime=44 is shopping
+Customer 1223249161: shoppingCart=[RYE, WONDER, RYE], shopTime=68, checkoutTime=84 done checking out
+Customer 369204343: shoppingCart=[WONDER, RYE, WONDER], shopTime=62, checkoutTime=60 is checking out
+Customer 1651451095: shoppingCart=[SOURDOUGH, RYE], shopTime=28, checkoutTime=1 went to cashier
+Customer 1643687345: shoppingCart=[RYE], shopTime=71, checkoutTime=44 done shopping.
+Customer 1523967553: shoppingCart=[RYE, RYE, WONDER], shopTime=71, checkoutTime=54 is shopping
+Customer 169727211: shoppingCart=[SOURDOUGH], shopTime=85, checkoutTime=85 done shopping.
+Customer 524999106: shoppingCart=[WONDER], shopTime=76, checkoutTime=90 is shopping
+Customer 1503122488: shoppingCart=[RYE, WONDER, WONDER], shopTime=92, checkoutTime=26 done shopping.
+Customer 179606735: shoppingCart=[WONDER], shopTime=53, checkoutTime=6 is shopping
+Customer 369204343: shoppingCart=[WONDER, RYE, WONDER], shopTime=62, checkoutTime=60 done checking out
+Customer 241143419: shoppingCart=[RYE, SOURDOUGH], shopTime=88, checkoutTime=60 is checking out
+Customer 1643687345: shoppingCart=[RYE], shopTime=71, checkoutTime=44 went to cashier
+Customer 179606735: shoppingCart=[WONDER], shopTime=53, checkoutTime=6 done shopping.
+Customer 1913677258: shoppingCart=[WONDER, SOURDOUGH], shopTime=51, checkoutTime=96 is shopping
+Customer 1523967553: shoppingCart=[RYE, RYE, WONDER], shopTime=71, checkoutTime=54 done shopping.
+Customer 1100278968: shoppingCart=[SOURDOUGH, SOURDOUGH, SOURDOUGH], shopTime=73, checkoutTime=3 is shopping
+Customer 524999106: shoppingCart=[WONDER], shopTime=76, checkoutTime=90 done shopping.
+Customer 544620333: shoppingCart=[SOURDOUGH, WONDER, SOURDOUGH], shopTime=26, checkoutTime=38 is shopping
+Customer 241143419: shoppingCart=[RYE, SOURDOUGH], shopTime=88, checkoutTime=60 done checking out
+Customer 169727211: shoppingCart=[SOURDOUGH], shopTime=85, checkoutTime=85 went to cashier
+Customer 1755920124: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=88, checkoutTime=78 is checking out
+No SOURDOUGH bread left! Restocking...
+Customer 1755920124: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=88, checkoutTime=78 done checking out
+Customer 1651451095: shoppingCart=[SOURDOUGH, RYE], shopTime=28, checkoutTime=1 is checking out
+Customer 1503122488: shoppingCart=[RYE, WONDER, WONDER], shopTime=92, checkoutTime=26 went to cashier
+Customer 1651451095: shoppingCart=[SOURDOUGH, RYE], shopTime=28, checkoutTime=1 done checking out
+Customer 179606735: shoppingCart=[WONDER], shopTime=53, checkoutTime=6 went to cashier
+Customer 1643687345: shoppingCart=[RYE], shopTime=71, checkoutTime=44 is checking out
+Customer 1643687345: shoppingCart=[RYE], shopTime=71, checkoutTime=44 done checking out
+Customer 169727211: shoppingCart=[SOURDOUGH], shopTime=85, checkoutTime=85 is checking out
+Customer 1523967553: shoppingCart=[RYE, RYE, WONDER], shopTime=71, checkoutTime=54 went to cashier
+Customer 169727211: shoppingCart=[SOURDOUGH], shopTime=85, checkoutTime=85 done checking out
+Customer 1503122488: shoppingCart=[RYE, WONDER, WONDER], shopTime=92, checkoutTime=26 is checking out
+Customer 524999106: shoppingCart=[WONDER], shopTime=76, checkoutTime=90 went to cashier
+Customer 1503122488: shoppingCart=[RYE, WONDER, WONDER], shopTime=92, checkoutTime=26 done checking out
+Customer 179606735: shoppingCart=[WONDER], shopTime=53, checkoutTime=6 is checking out
+Customer 179606735: shoppingCart=[WONDER], shopTime=53, checkoutTime=6 done checking out
+Customer 1523967553: shoppingCart=[RYE, RYE, WONDER], shopTime=71, checkoutTime=54 is checking out
+Customer 1523967553: shoppingCart=[RYE, RYE, WONDER], shopTime=71, checkoutTime=54 done checking out
+Customer 524999106: shoppingCart=[WONDER], shopTime=76, checkoutTime=90 is checking out
+Customer 524999106: shoppingCart=[WONDER], shopTime=76, checkoutTime=90 done checking out
+Customer 544620333: shoppingCart=[SOURDOUGH, WONDER, SOURDOUGH], shopTime=26, checkoutTime=38 done shopping.
+Customer 544620333: shoppingCart=[SOURDOUGH, WONDER, SOURDOUGH], shopTime=26, checkoutTime=38 went to cashier
+Customer 544620333: shoppingCart=[SOURDOUGH, WONDER, SOURDOUGH], shopTime=26, checkoutTime=38 is checking out
+Customer 704978345: shoppingCart=[RYE], shopTime=37, checkoutTime=13 is shopping
+Customer 1913677258: shoppingCart=[WONDER, SOURDOUGH], shopTime=51, checkoutTime=96 done shopping.
+Customer 1100278968: shoppingCart=[SOURDOUGH, SOURDOUGH, SOURDOUGH], shopTime=73, checkoutTime=3 done shopping.
+Customer 454934315: shoppingCart=[WONDER, WONDER, RYE], shopTime=64, checkoutTime=73 is shopping
+Customer 1100278968: shoppingCart=[SOURDOUGH, SOURDOUGH, SOURDOUGH], shopTime=73, checkoutTime=3 went to cashier
+Customer 1913677258: shoppingCart=[WONDER, SOURDOUGH], shopTime=51, checkoutTime=96 went to cashier
+Customer 912486366: shoppingCart=[WONDER, RYE, SOURDOUGH], shopTime=19, checkoutTime=24 is shopping
+Customer 912486366: shoppingCart=[WONDER, RYE, SOURDOUGH], shopTime=19, checkoutTime=24 done shopping.
+Customer 912486366: shoppingCart=[WONDER, RYE, SOURDOUGH], shopTime=19, checkoutTime=24 went to cashier
+Customer 563339240: shoppingCart=[RYE, SOURDOUGH, WONDER], shopTime=82, checkoutTime=90 is shopping
+Customer 704978345: shoppingCart=[RYE], shopTime=37, checkoutTime=13 done shopping.
+Customer 2031921138: shoppingCart=[RYE], shopTime=58, checkoutTime=70 is shopping
+Customer 544620333: shoppingCart=[SOURDOUGH, WONDER, SOURDOUGH], shopTime=26, checkoutTime=38 done checking out
+Customer 704978345: shoppingCart=[RYE], shopTime=37, checkoutTime=13 went to cashier
+Customer 1100278968: shoppingCart=[SOURDOUGH, SOURDOUGH, SOURDOUGH], shopTime=73, checkoutTime=3 is checking out
+Customer 1100278968: shoppingCart=[SOURDOUGH, SOURDOUGH, SOURDOUGH], shopTime=73, checkoutTime=3 done checking out
+Customer 1913677258: shoppingCart=[WONDER, SOURDOUGH], shopTime=51, checkoutTime=96 is checking out
+Customer 454934315: shoppingCart=[WONDER, WONDER, RYE], shopTime=64, checkoutTime=73 done shopping.
+Customer 454934315: shoppingCart=[WONDER, WONDER, RYE], shopTime=64, checkoutTime=73 went to cashier
+Customer 147601988: shoppingCart=[RYE], shopTime=39, checkoutTime=11 is shopping
+Customer 2031921138: shoppingCart=[RYE], shopTime=58, checkoutTime=70 done shopping.
+Customer 1162441400: shoppingCart=[WONDER], shopTime=7, checkoutTime=28 is shopping
+No WONDER bread left! Restocking...
+Customer 147601988: shoppingCart=[RYE], shopTime=39, checkoutTime=11 done shopping.
+Customer 132105290: shoppingCart=[WONDER, RYE], shopTime=56, checkoutTime=51 is shopping
+Customer 1913677258: shoppingCart=[WONDER, SOURDOUGH], shopTime=51, checkoutTime=96 done checking out
+Customer 2031921138: shoppingCart=[RYE], shopTime=58, checkoutTime=70 went to cashier
+Customer 912486366: shoppingCart=[WONDER, RYE, SOURDOUGH], shopTime=19, checkoutTime=24 is checking out
+Customer 912486366: shoppingCart=[WONDER, RYE, SOURDOUGH], shopTime=19, checkoutTime=24 done checking out
+Customer 147601988: shoppingCart=[RYE], shopTime=39, checkoutTime=11 went to cashier
+Customer 704978345: shoppingCart=[RYE], shopTime=37, checkoutTime=13 is checking out
+Customer 704978345: shoppingCart=[RYE], shopTime=37, checkoutTime=13 done checking out
+Customer 454934315: shoppingCart=[WONDER, WONDER, RYE], shopTime=64, checkoutTime=73 is checking out
+Customer 454934315: shoppingCart=[WONDER, WONDER, RYE], shopTime=64, checkoutTime=73 done checking out
+Customer 2031921138: shoppingCart=[RYE], shopTime=58, checkoutTime=70 is checking out
+Customer 2031921138: shoppingCart=[RYE], shopTime=58, checkoutTime=70 done checking out
+Customer 147601988: shoppingCart=[RYE], shopTime=39, checkoutTime=11 is checking out
+Customer 147601988: shoppingCart=[RYE], shopTime=39, checkoutTime=11 done checking out
+Customer 563339240: shoppingCart=[RYE, SOURDOUGH, WONDER], shopTime=82, checkoutTime=90 done shopping.
+Customer 563339240: shoppingCart=[RYE, SOURDOUGH, WONDER], shopTime=82, checkoutTime=90 went to cashier
+Customer 563339240: shoppingCart=[RYE, SOURDOUGH, WONDER], shopTime=82, checkoutTime=90 is checking out
+Customer 1162441400: shoppingCart=[WONDER], shopTime=7, checkoutTime=28 done shopping.
+Customer 132105290: shoppingCart=[WONDER, RYE], shopTime=56, checkoutTime=51 done shopping.
+Customer 132105290: shoppingCart=[WONDER, RYE], shopTime=56, checkoutTime=51 went to cashier
+Customer 1953901646: shoppingCart=[SOURDOUGH, WONDER], shopTime=85, checkoutTime=50 is shopping
+Customer 1162441400: shoppingCart=[WONDER], shopTime=7, checkoutTime=28 went to cashier
+Customer 654774039: shoppingCart=[RYE], shopTime=62, checkoutTime=70 is shopping
+Customer 306639743: shoppingCart=[SOURDOUGH], shopTime=75, checkoutTime=23 is shopping
+Customer 654774039: shoppingCart=[RYE], shopTime=62, checkoutTime=70 done shopping.
+Customer 654774039: shoppingCart=[RYE], shopTime=62, checkoutTime=70 went to cashier
+Customer 2005991969: shoppingCart=[SOURDOUGH], shopTime=79, checkoutTime=61 is shopping
+Customer 306639743: shoppingCart=[SOURDOUGH], shopTime=75, checkoutTime=23 done shopping.
+Customer 1571744884: shoppingCart=[SOURDOUGH, WONDER], shopTime=81, checkoutTime=11 is shopping
+Customer 1953901646: shoppingCart=[SOURDOUGH, WONDER], shopTime=85, checkoutTime=50 done shopping.
+Customer 921964010: shoppingCart=[SOURDOUGH], shopTime=63, checkoutTime=69 is shopping
+Customer 563339240: shoppingCart=[RYE, SOURDOUGH, WONDER], shopTime=82, checkoutTime=90 done checking out
+Customer 306639743: shoppingCart=[SOURDOUGH], shopTime=75, checkoutTime=23 went to cashier
+Customer 132105290: shoppingCart=[WONDER, RYE], shopTime=56, checkoutTime=51 is checking out
+Customer 2005991969: shoppingCart=[SOURDOUGH], shopTime=79, checkoutTime=61 done shopping.
+Customer 1139619540: shoppingCart=[RYE, WONDER, WONDER], shopTime=47, checkoutTime=71 is shopping
+Customer 921964010: shoppingCart=[SOURDOUGH], shopTime=63, checkoutTime=69 done shopping.
+Customer 848767079: shoppingCart=[SOURDOUGH], shopTime=88, checkoutTime=44 is shopping
+Customer 132105290: shoppingCart=[WONDER, RYE], shopTime=56, checkoutTime=51 done checking out
+Customer 1953901646: shoppingCart=[SOURDOUGH, WONDER], shopTime=85, checkoutTime=50 went to cashier
+Customer 1162441400: shoppingCart=[WONDER], shopTime=7, checkoutTime=28 is checking out
+Customer 1571744884: shoppingCart=[SOURDOUGH, WONDER], shopTime=81, checkoutTime=11 done shopping.
+Customer 2060330815: shoppingCart=[WONDER, WONDER], shopTime=18, checkoutTime=87 is shopping
+Customer 2060330815: shoppingCart=[WONDER, WONDER], shopTime=18, checkoutTime=87 done shopping.
+Customer 1921612218: shoppingCart=[WONDER, WONDER, SOURDOUGH], shopTime=91, checkoutTime=13 is shopping
+Customer 1162441400: shoppingCart=[WONDER], shopTime=7, checkoutTime=28 done checking out
+Customer 2005991969: shoppingCart=[SOURDOUGH], shopTime=79, checkoutTime=61 went to cashier
+Customer 654774039: shoppingCart=[RYE], shopTime=62, checkoutTime=70 is checking out
+Customer 1139619540: shoppingCart=[RYE, WONDER, WONDER], shopTime=47, checkoutTime=71 done shopping.
+Customer 767293299: shoppingCart=[RYE, WONDER, WONDER], shopTime=19, checkoutTime=40 is shopping
+No RYE bread left! Restocking...
+Customer 848767079: shoppingCart=[SOURDOUGH], shopTime=88, checkoutTime=44 done shopping.
+Customer 1665067120: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=23, checkoutTime=61 is shopping
+Customer 654774039: shoppingCart=[RYE], shopTime=62, checkoutTime=70 done checking out
+Customer 921964010: shoppingCart=[SOURDOUGH], shopTime=63, checkoutTime=69 went to cashier
+Customer 306639743: shoppingCart=[SOURDOUGH], shopTime=75, checkoutTime=23 is checking out
+Customer 1665067120: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=23, checkoutTime=61 done shopping.
+Customer 1795588784: shoppingCart=[RYE], shopTime=65, checkoutTime=17 is shopping
+Customer 1921612218: shoppingCart=[WONDER, WONDER, SOURDOUGH], shopTime=91, checkoutTime=13 done shopping.
+Customer 326960275: shoppingCart=[RYE, RYE], shopTime=77, checkoutTime=37 is shopping
+Customer 306639743: shoppingCart=[SOURDOUGH], shopTime=75, checkoutTime=23 done checking out
+Customer 1571744884: shoppingCart=[SOURDOUGH, WONDER], shopTime=81, checkoutTime=11 went to cashier
+Customer 1953901646: shoppingCart=[SOURDOUGH, WONDER], shopTime=85, checkoutTime=50 is checking out
+Customer 1953901646: shoppingCart=[SOURDOUGH, WONDER], shopTime=85, checkoutTime=50 done checking out
+Customer 2060330815: shoppingCart=[WONDER, WONDER], shopTime=18, checkoutTime=87 went to cashier
+Customer 2005991969: shoppingCart=[SOURDOUGH], shopTime=79, checkoutTime=61 is checking out
+Customer 2005991969: shoppingCart=[SOURDOUGH], shopTime=79, checkoutTime=61 done checking out
+Customer 1139619540: shoppingCart=[RYE, WONDER, WONDER], shopTime=47, checkoutTime=71 went to cashier
+Customer 921964010: shoppingCart=[SOURDOUGH], shopTime=63, checkoutTime=69 is checking out
+Customer 921964010: shoppingCart=[SOURDOUGH], shopTime=63, checkoutTime=69 done checking out
+Customer 848767079: shoppingCart=[SOURDOUGH], shopTime=88, checkoutTime=44 went to cashier
+Customer 1571744884: shoppingCart=[SOURDOUGH, WONDER], shopTime=81, checkoutTime=11 is checking out
+Customer 1571744884: shoppingCart=[SOURDOUGH, WONDER], shopTime=81, checkoutTime=11 done checking out
+Customer 2060330815: shoppingCart=[WONDER, WONDER], shopTime=18, checkoutTime=87 is checking out
+Customer 1665067120: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=23, checkoutTime=61 went to cashier
+Customer 2060330815: shoppingCart=[WONDER, WONDER], shopTime=18, checkoutTime=87 done checking out
+Customer 1921612218: shoppingCart=[WONDER, WONDER, SOURDOUGH], shopTime=91, checkoutTime=13 went to cashier
+Customer 1139619540: shoppingCart=[RYE, WONDER, WONDER], shopTime=47, checkoutTime=71 is checking out
+Customer 1139619540: shoppingCart=[RYE, WONDER, WONDER], shopTime=47, checkoutTime=71 done checking out
+Customer 848767079: shoppingCart=[SOURDOUGH], shopTime=88, checkoutTime=44 is checking out
+Customer 848767079: shoppingCart=[SOURDOUGH], shopTime=88, checkoutTime=44 done checking out
+Customer 1665067120: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=23, checkoutTime=61 is checking out
+Customer 1665067120: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=23, checkoutTime=61 done checking out
+Customer 1921612218: shoppingCart=[WONDER, WONDER, SOURDOUGH], shopTime=91, checkoutTime=13 is checking out
+Customer 1921612218: shoppingCart=[WONDER, WONDER, SOURDOUGH], shopTime=91, checkoutTime=13 done checking out
+Customer 767293299: shoppingCart=[RYE, WONDER, WONDER], shopTime=19, checkoutTime=40 done shopping.
+Customer 326960275: shoppingCart=[RYE, RYE], shopTime=77, checkoutTime=37 done shopping.
+Customer 292792173: shoppingCart=[RYE], shopTime=50, checkoutTime=27 is shopping
+Customer 1795588784: shoppingCart=[RYE], shopTime=65, checkoutTime=17 done shopping.
+Customer 827732361: shoppingCart=[WONDER], shopTime=96, checkoutTime=3 is shopping
+Customer 1701509316: shoppingCart=[WONDER, RYE], shopTime=30, checkoutTime=73 is shopping
+Customer 326960275: shoppingCart=[RYE, RYE], shopTime=77, checkoutTime=37 went to cashier
+Customer 767293299: shoppingCart=[RYE, WONDER, WONDER], shopTime=19, checkoutTime=40 went to cashier
+Customer 326960275: shoppingCart=[RYE, RYE], shopTime=77, checkoutTime=37 is checking out
+Customer 1795588784: shoppingCart=[RYE], shopTime=65, checkoutTime=17 went to cashier
+Customer 1701509316: shoppingCart=[WONDER, RYE], shopTime=30, checkoutTime=73 done shopping.
+Customer 1701509316: shoppingCart=[WONDER, RYE], shopTime=30, checkoutTime=73 went to cashier
+Customer 2001913465: shoppingCart=[RYE, RYE], shopTime=63, checkoutTime=84 is shopping
+Customer 326960275: shoppingCart=[RYE, RYE], shopTime=77, checkoutTime=37 done checking out
+Customer 767293299: shoppingCart=[RYE, WONDER, WONDER], shopTime=19, checkoutTime=40 is checking out
+Customer 292792173: shoppingCart=[RYE], shopTime=50, checkoutTime=27 done shopping.
+Customer 292792173: shoppingCart=[RYE], shopTime=50, checkoutTime=27 went to cashier
+Customer 165131212: shoppingCart=[SOURDOUGH], shopTime=97, checkoutTime=16 is shopping
+Customer 767293299: shoppingCart=[RYE, WONDER, WONDER], shopTime=19, checkoutTime=40 done checking out
+Customer 1795588784: shoppingCart=[RYE], shopTime=65, checkoutTime=17 is checking out
+Customer 2001913465: shoppingCart=[RYE, RYE], shopTime=63, checkoutTime=84 done shopping.
+Customer 2001913465: shoppingCart=[RYE, RYE], shopTime=63, checkoutTime=84 went to cashier
+Customer 1402552416: shoppingCart=[WONDER, SOURDOUGH, SOURDOUGH], shopTime=45, checkoutTime=93 is shopping
+Customer 1795588784: shoppingCart=[RYE], shopTime=65, checkoutTime=17 done checking out
+Customer 1701509316: shoppingCart=[WONDER, RYE], shopTime=30, checkoutTime=73 is checking out
+Customer 827732361: shoppingCart=[WONDER], shopTime=96, checkoutTime=3 done shopping.
+Customer 827732361: shoppingCart=[WONDER], shopTime=96, checkoutTime=3 went to cashier
+Customer 811736259: shoppingCart=[WONDER, RYE], shopTime=37, checkoutTime=19 is shopping
+Customer 811736259: shoppingCart=[WONDER, RYE], shopTime=37, checkoutTime=19 done shopping.
+Customer 331415634: shoppingCart=[WONDER], shopTime=22, checkoutTime=11 is shopping
+Customer 1402552416: shoppingCart=[WONDER, SOURDOUGH, SOURDOUGH], shopTime=45, checkoutTime=93 done shopping.
+Customer 1215662465: shoppingCart=[WONDER, SOURDOUGH], shopTime=8, checkoutTime=17 is shopping
+Customer 1215662465: shoppingCart=[WONDER, SOURDOUGH], shopTime=8, checkoutTime=17 done shopping.
+Customer 2031088626: shoppingCart=[RYE, WONDER, RYE], shopTime=50, checkoutTime=23 is shopping
+Customer 165131212: shoppingCart=[SOURDOUGH], shopTime=97, checkoutTime=16 done shopping.
+Customer 1383683387: shoppingCart=[SOURDOUGH, WONDER], shopTime=73, checkoutTime=69 is shopping
+Customer 331415634: shoppingCart=[WONDER], shopTime=22, checkoutTime=11 done shopping.
+Customer 428861413: shoppingCart=[SOURDOUGH], shopTime=65, checkoutTime=38 is shopping
+Customer 1701509316: shoppingCart=[WONDER, RYE], shopTime=30, checkoutTime=73 done checking out
+Customer 811736259: shoppingCart=[WONDER, RYE], shopTime=37, checkoutTime=19 went to cashier
+Customer 292792173: shoppingCart=[RYE], shopTime=50, checkoutTime=27 is checking out
+Customer 292792173: shoppingCart=[RYE], shopTime=50, checkoutTime=27 done checking out
+Customer 2001913465: shoppingCart=[RYE, RYE], shopTime=63, checkoutTime=84 is checking out
+Customer 1402552416: shoppingCart=[WONDER, SOURDOUGH, SOURDOUGH], shopTime=45, checkoutTime=93 went to cashier
+Customer 2031088626: shoppingCart=[RYE, WONDER, RYE], shopTime=50, checkoutTime=23 done shopping.
+Customer 2081057120: shoppingCart=[WONDER, SOURDOUGH], shopTime=31, checkoutTime=38 is shopping
+No SOURDOUGH bread left! Restocking...
+No WONDER bread left! Restocking...
+Customer 2001913465: shoppingCart=[RYE, RYE], shopTime=63, checkoutTime=84 done checking out
+Customer 827732361: shoppingCart=[WONDER], shopTime=96, checkoutTime=3 is checking out
+Customer 1215662465: shoppingCart=[WONDER, SOURDOUGH], shopTime=8, checkoutTime=17 went to cashier
+Customer 827732361: shoppingCart=[WONDER], shopTime=96, checkoutTime=3 done checking out
+Customer 811736259: shoppingCart=[WONDER, RYE], shopTime=37, checkoutTime=19 is checking out
+Customer 165131212: shoppingCart=[SOURDOUGH], shopTime=97, checkoutTime=16 went to cashier
+Customer 811736259: shoppingCart=[WONDER, RYE], shopTime=37, checkoutTime=19 done checking out
+Customer 1402552416: shoppingCart=[WONDER, SOURDOUGH, SOURDOUGH], shopTime=45, checkoutTime=93 is checking out
+Customer 331415634: shoppingCart=[WONDER], shopTime=22, checkoutTime=11 went to cashier
+Customer 1402552416: shoppingCart=[WONDER, SOURDOUGH, SOURDOUGH], shopTime=45, checkoutTime=93 done checking out
+Customer 2031088626: shoppingCart=[RYE, WONDER, RYE], shopTime=50, checkoutTime=23 went to cashier
+Customer 1215662465: shoppingCart=[WONDER, SOURDOUGH], shopTime=8, checkoutTime=17 is checking out
+Customer 1215662465: shoppingCart=[WONDER, SOURDOUGH], shopTime=8, checkoutTime=17 done checking out
+Customer 165131212: shoppingCart=[SOURDOUGH], shopTime=97, checkoutTime=16 is checking out
+Customer 165131212: shoppingCart=[SOURDOUGH], shopTime=97, checkoutTime=16 done checking out
+Customer 331415634: shoppingCart=[WONDER], shopTime=22, checkoutTime=11 is checking out
+Customer 331415634: shoppingCart=[WONDER], shopTime=22, checkoutTime=11 done checking out
+Customer 2031088626: shoppingCart=[RYE, WONDER, RYE], shopTime=50, checkoutTime=23 is checking out
+Customer 2031088626: shoppingCart=[RYE, WONDER, RYE], shopTime=50, checkoutTime=23 done checking out
+Customer 428861413: shoppingCart=[SOURDOUGH], shopTime=65, checkoutTime=38 done shopping.
+Customer 428861413: shoppingCart=[SOURDOUGH], shopTime=65, checkoutTime=38 went to cashier
+Customer 428861413: shoppingCart=[SOURDOUGH], shopTime=65, checkoutTime=38 is checking out
+Customer 1863025584: shoppingCart=[RYE, SOURDOUGH, RYE], shopTime=83, checkoutTime=69 is shopping
+Customer 2081057120: shoppingCart=[WONDER, SOURDOUGH], shopTime=31, checkoutTime=38 done shopping.
+Customer 2081057120: shoppingCart=[WONDER, SOURDOUGH], shopTime=31, checkoutTime=38 went to cashier
+Customer 1177463396: shoppingCart=[RYE, SOURDOUGH], shopTime=60, checkoutTime=20 is shopping
+Customer 1383683387: shoppingCart=[SOURDOUGH, WONDER], shopTime=73, checkoutTime=69 done shopping.
+Customer 1383683387: shoppingCart=[SOURDOUGH, WONDER], shopTime=73, checkoutTime=69 went to cashier
+Customer 415658183: shoppingCart=[WONDER], shopTime=66, checkoutTime=7 is shopping
+Customer 428861413: shoppingCart=[SOURDOUGH], shopTime=65, checkoutTime=38 done checking out
+Customer 2081057120: shoppingCart=[WONDER, SOURDOUGH], shopTime=31, checkoutTime=38 is checking out
+Customer 1177463396: shoppingCart=[RYE, SOURDOUGH], shopTime=60, checkoutTime=20 done shopping.
+Customer 1177463396: shoppingCart=[RYE, SOURDOUGH], shopTime=60, checkoutTime=20 went to cashier
+Customer 9986496: shoppingCart=[WONDER, RYE], shopTime=68, checkoutTime=71 is shopping
+Customer 415658183: shoppingCart=[WONDER], shopTime=66, checkoutTime=7 done shopping.
+Customer 415658183: shoppingCart=[WONDER], shopTime=66, checkoutTime=7 went to cashier
+Customer 1718535577: shoppingCart=[WONDER], shopTime=61, checkoutTime=92 is shopping
+Customer 2081057120: shoppingCart=[WONDER, SOURDOUGH], shopTime=31, checkoutTime=38 done checking out
+Customer 1383683387: shoppingCart=[SOURDOUGH, WONDER], shopTime=73, checkoutTime=69 is checking out
+Customer 1863025584: shoppingCart=[RYE, SOURDOUGH, RYE], shopTime=83, checkoutTime=69 done shopping.
+Customer 1863025584: shoppingCart=[RYE, SOURDOUGH, RYE], shopTime=83, checkoutTime=69 went to cashier
+Customer 1823000298: shoppingCart=[RYE, RYE, SOURDOUGH], shopTime=84, checkoutTime=75 is shopping
+Customer 1718535577: shoppingCart=[WONDER], shopTime=61, checkoutTime=92 done shopping.
+Customer 1866424318: shoppingCart=[WONDER, WONDER, SOURDOUGH], shopTime=52, checkoutTime=65 is shopping
+Customer 9986496: shoppingCart=[WONDER, RYE], shopTime=68, checkoutTime=71 done shopping.
+Customer 81411032: shoppingCart=[RYE], shopTime=38, checkoutTime=41 is shopping
+Customer 1383683387: shoppingCart=[SOURDOUGH, WONDER], shopTime=73, checkoutTime=69 done checking out
+Customer 1177463396: shoppingCart=[RYE, SOURDOUGH], shopTime=60, checkoutTime=20 is checking out
+Customer 1718535577: shoppingCart=[WONDER], shopTime=61, checkoutTime=92 went to cashier
+Customer 1177463396: shoppingCart=[RYE, SOURDOUGH], shopTime=60, checkoutTime=20 done checking out
+Customer 415658183: shoppingCart=[WONDER], shopTime=66, checkoutTime=7 is checking out
+Customer 9986496: shoppingCart=[WONDER, RYE], shopTime=68, checkoutTime=71 went to cashier
+Customer 1823000298: shoppingCart=[RYE, RYE, SOURDOUGH], shopTime=84, checkoutTime=75 done shopping.
+Customer 1464869242: shoppingCart=[WONDER, WONDER], shopTime=73, checkoutTime=0 is shopping
+Customer 415658183: shoppingCart=[WONDER], shopTime=66, checkoutTime=7 done checking out
+Customer 1823000298: shoppingCart=[RYE, RYE, SOURDOUGH], shopTime=84, checkoutTime=75 went to cashier
+Customer 1863025584: shoppingCart=[RYE, SOURDOUGH, RYE], shopTime=83, checkoutTime=69 is checking out
+Customer 81411032: shoppingCart=[RYE], shopTime=38, checkoutTime=41 done shopping.
+Customer 74677225: shoppingCart=[RYE, SOURDOUGH, WONDER], shopTime=85, checkoutTime=80 is shopping
+Customer 1866424318: shoppingCart=[WONDER, WONDER, SOURDOUGH], shopTime=52, checkoutTime=65 done shopping.
+Customer 1410466667: shoppingCart=[RYE], shopTime=84, checkoutTime=13 is shopping
+Customer 1464869242: shoppingCart=[WONDER, WONDER], shopTime=73, checkoutTime=0 done shopping.
+Customer 294462555: shoppingCart=[RYE], shopTime=46, checkoutTime=49 is shopping
+Customer 1863025584: shoppingCart=[RYE, SOURDOUGH, RYE], shopTime=83, checkoutTime=69 done checking out
+Customer 1718535577: shoppingCart=[WONDER], shopTime=61, checkoutTime=92 is checking out
+Customer 81411032: shoppingCart=[RYE], shopTime=38, checkoutTime=41 went to cashier
+Customer 74677225: shoppingCart=[RYE, SOURDOUGH, WONDER], shopTime=85, checkoutTime=80 done shopping.
+Customer 783402323: shoppingCart=[SOURDOUGH], shopTime=72, checkoutTime=78 is shopping
+Customer 1410466667: shoppingCart=[RYE], shopTime=84, checkoutTime=13 done shopping.
+Customer 1330846458: shoppingCart=[RYE, SOURDOUGH], shopTime=66, checkoutTime=66 is shopping
+No RYE bread left! Restocking...
+Customer 783402323: shoppingCart=[SOURDOUGH], shopTime=72, checkoutTime=78 done shopping.
+Customer 2094503416: shoppingCart=[WONDER, RYE, RYE], shopTime=93, checkoutTime=59 is shopping
+Customer 1718535577: shoppingCart=[WONDER], shopTime=61, checkoutTime=92 done checking out
+Customer 9986496: shoppingCart=[WONDER, RYE], shopTime=68, checkoutTime=71 is checking out
+Customer 1866424318: shoppingCart=[WONDER, WONDER, SOURDOUGH], shopTime=52, checkoutTime=65 went to cashier
+Customer 9986496: shoppingCart=[WONDER, RYE], shopTime=68, checkoutTime=71 done checking out
+Customer 1823000298: shoppingCart=[RYE, RYE, SOURDOUGH], shopTime=84, checkoutTime=75 is checking out
+Customer 1464869242: shoppingCart=[WONDER, WONDER], shopTime=73, checkoutTime=0 went to cashier
+Customer 1823000298: shoppingCart=[RYE, RYE, SOURDOUGH], shopTime=84, checkoutTime=75 done checking out
+Customer 81411032: shoppingCart=[RYE], shopTime=38, checkoutTime=41 is checking out
+Customer 74677225: shoppingCart=[RYE, SOURDOUGH, WONDER], shopTime=85, checkoutTime=80 went to cashier
+Customer 81411032: shoppingCart=[RYE], shopTime=38, checkoutTime=41 done checking out
+Customer 1866424318: shoppingCart=[WONDER, WONDER, SOURDOUGH], shopTime=52, checkoutTime=65 is checking out
+Customer 1410466667: shoppingCart=[RYE], shopTime=84, checkoutTime=13 went to cashier
+Customer 1866424318: shoppingCart=[WONDER, WONDER, SOURDOUGH], shopTime=52, checkoutTime=65 done checking out
+Customer 1464869242: shoppingCart=[WONDER, WONDER], shopTime=73, checkoutTime=0 is checking out
+Customer 783402323: shoppingCart=[SOURDOUGH], shopTime=72, checkoutTime=78 went to cashier
+Customer 1464869242: shoppingCart=[WONDER, WONDER], shopTime=73, checkoutTime=0 done checking out
+Customer 74677225: shoppingCart=[RYE, SOURDOUGH, WONDER], shopTime=85, checkoutTime=80 is checking out
+Customer 74677225: shoppingCart=[RYE, SOURDOUGH, WONDER], shopTime=85, checkoutTime=80 done checking out
+Customer 1410466667: shoppingCart=[RYE], shopTime=84, checkoutTime=13 is checking out
+Customer 1410466667: shoppingCart=[RYE], shopTime=84, checkoutTime=13 done checking out
+Customer 783402323: shoppingCart=[SOURDOUGH], shopTime=72, checkoutTime=78 is checking out
+Customer 783402323: shoppingCart=[SOURDOUGH], shopTime=72, checkoutTime=78 done checking out
+Customer 294462555: shoppingCart=[RYE], shopTime=46, checkoutTime=49 done shopping.
+Customer 294462555: shoppingCart=[RYE], shopTime=46, checkoutTime=49 went to cashier
+Customer 294462555: shoppingCart=[RYE], shopTime=46, checkoutTime=49 is checking out
+Customer 1330846458: shoppingCart=[RYE, SOURDOUGH], shopTime=66, checkoutTime=66 done shopping.
+Customer 1330846458: shoppingCart=[RYE, SOURDOUGH], shopTime=66, checkoutTime=66 went to cashier
+Customer 616752793: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=53, checkoutTime=65 is shopping
+Customer 2094503416: shoppingCart=[WONDER, RYE, RYE], shopTime=93, checkoutTime=59 done shopping.
+Customer 950306658: shoppingCart=[SOURDOUGH, WONDER, WONDER], shopTime=55, checkoutTime=92 is shopping
+Customer 366629432: shoppingCart=[RYE, SOURDOUGH], shopTime=47, checkoutTime=54 is shopping
+Customer 2094503416: shoppingCart=[WONDER, RYE, RYE], shopTime=93, checkoutTime=59 went to cashier
+Customer 366629432: shoppingCart=[RYE, SOURDOUGH], shopTime=47, checkoutTime=54 done shopping.
+Customer 366629432: shoppingCart=[RYE, SOURDOUGH], shopTime=47, checkoutTime=54 went to cashier
+Customer 2010863265: shoppingCart=[RYE, RYE], shopTime=9, checkoutTime=0 is shopping
+Customer 294462555: shoppingCart=[RYE], shopTime=46, checkoutTime=49 done checking out
+Customer 1330846458: shoppingCart=[RYE, SOURDOUGH], shopTime=66, checkoutTime=66 is checking out
+Customer 616752793: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=53, checkoutTime=65 done shopping.
+Customer 616752793: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=53, checkoutTime=65 went to cashier
+Customer 101434669: shoppingCart=[SOURDOUGH, SOURDOUGH, SOURDOUGH], shopTime=23, checkoutTime=44 is shopping
+Customer 950306658: shoppingCart=[SOURDOUGH, WONDER, WONDER], shopTime=55, checkoutTime=92 done shopping.
+Customer 794043818: shoppingCart=[WONDER], shopTime=12, checkoutTime=25 is shopping
+Customer 2010863265: shoppingCart=[RYE, RYE], shopTime=9, checkoutTime=0 done shopping.
+Customer 152582849: shoppingCart=[WONDER, RYE], shopTime=56, checkoutTime=20 is shopping
+Customer 794043818: shoppingCart=[WONDER], shopTime=12, checkoutTime=25 done shopping.
+Customer 1267631201: shoppingCart=[SOURDOUGH, WONDER, RYE], shopTime=98, checkoutTime=18 is shopping
+Customer 101434669: shoppingCart=[SOURDOUGH, SOURDOUGH, SOURDOUGH], shopTime=23, checkoutTime=44 done shopping.
+Customer 700511623: shoppingCart=[WONDER, RYE, WONDER], shopTime=43, checkoutTime=46 is shopping
+Customer 152582849: shoppingCart=[WONDER, RYE], shopTime=56, checkoutTime=20 done shopping.
+Customer 478224199: shoppingCart=[SOURDOUGH, WONDER], shopTime=72, checkoutTime=0 is shopping
+Customer 1330846458: shoppingCart=[RYE, SOURDOUGH], shopTime=66, checkoutTime=66 done checking out
+Customer 950306658: shoppingCart=[SOURDOUGH, WONDER, WONDER], shopTime=55, checkoutTime=92 went to cashier
+Customer 2094503416: shoppingCart=[WONDER, RYE, RYE], shopTime=93, checkoutTime=59 is checking out
+Customer 700511623: shoppingCart=[WONDER, RYE, WONDER], shopTime=43, checkoutTime=46 done shopping.
+Customer 2058476720: shoppingCart=[WONDER, SOURDOUGH], shopTime=1, checkoutTime=50 is shopping
+Customer 2058476720: shoppingCart=[WONDER, SOURDOUGH], shopTime=1, checkoutTime=50 done shopping.
+Customer 2035737251: shoppingCart=[SOURDOUGH], shopTime=56, checkoutTime=28 is shopping
+Customer 1267631201: shoppingCart=[SOURDOUGH, WONDER, RYE], shopTime=98, checkoutTime=18 done shopping.
+Customer 942929220: shoppingCart=[RYE], shopTime=25, checkoutTime=40 is shopping
+Customer 2094503416: shoppingCart=[WONDER, RYE, RYE], shopTime=93, checkoutTime=59 done checking out
+Customer 366629432: shoppingCart=[RYE, SOURDOUGH], shopTime=47, checkoutTime=54 is checking out
+Customer 2010863265: shoppingCart=[RYE, RYE], shopTime=9, checkoutTime=0 went to cashier
+Customer 2035737251: shoppingCart=[SOURDOUGH], shopTime=56, checkoutTime=28 done shopping.
+Customer 1399392689: shoppingCart=[SOURDOUGH, SOURDOUGH, SOURDOUGH], shopTime=12, checkoutTime=24 is shopping
+No SOURDOUGH bread left! Restocking...
+Customer 942929220: shoppingCart=[RYE], shopTime=25, checkoutTime=40 done shopping.
+Customer 2129767614: shoppingCart=[SOURDOUGH], shopTime=17, checkoutTime=72 is shopping
+Customer 366629432: shoppingCart=[RYE, SOURDOUGH], shopTime=47, checkoutTime=54 done checking out
+Customer 794043818: shoppingCart=[WONDER], shopTime=12, checkoutTime=25 went to cashier
+Customer 616752793: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=53, checkoutTime=65 is checking out
+Customer 616752793: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=53, checkoutTime=65 done checking out
+Customer 101434669: shoppingCart=[SOURDOUGH, SOURDOUGH, SOURDOUGH], shopTime=23, checkoutTime=44 went to cashier
+Customer 950306658: shoppingCart=[SOURDOUGH, WONDER, WONDER], shopTime=55, checkoutTime=92 is checking out
+Customer 950306658: shoppingCart=[SOURDOUGH, WONDER, WONDER], shopTime=55, checkoutTime=92 done checking out
+Customer 152582849: shoppingCart=[WONDER, RYE], shopTime=56, checkoutTime=20 went to cashier
+Customer 2010863265: shoppingCart=[RYE, RYE], shopTime=9, checkoutTime=0 is checking out
+Customer 2010863265: shoppingCart=[RYE, RYE], shopTime=9, checkoutTime=0 done checking out
+Customer 700511623: shoppingCart=[WONDER, RYE, WONDER], shopTime=43, checkoutTime=46 went to cashier
+Customer 794043818: shoppingCart=[WONDER], shopTime=12, checkoutTime=25 is checking out
+Customer 794043818: shoppingCart=[WONDER], shopTime=12, checkoutTime=25 done checking out
+Customer 101434669: shoppingCart=[SOURDOUGH, SOURDOUGH, SOURDOUGH], shopTime=23, checkoutTime=44 is checking out
+Customer 2058476720: shoppingCart=[WONDER, SOURDOUGH], shopTime=1, checkoutTime=50 went to cashier
+Customer 101434669: shoppingCart=[SOURDOUGH, SOURDOUGH, SOURDOUGH], shopTime=23, checkoutTime=44 done checking out
+Customer 152582849: shoppingCart=[WONDER, RYE], shopTime=56, checkoutTime=20 is checking out
+Customer 1267631201: shoppingCart=[SOURDOUGH, WONDER, RYE], shopTime=98, checkoutTime=18 went to cashier
+Customer 152582849: shoppingCart=[WONDER, RYE], shopTime=56, checkoutTime=20 done checking out
+Customer 2035737251: shoppingCart=[SOURDOUGH], shopTime=56, checkoutTime=28 went to cashier
+Customer 700511623: shoppingCart=[WONDER, RYE, WONDER], shopTime=43, checkoutTime=46 is checking out
+Customer 700511623: shoppingCart=[WONDER, RYE, WONDER], shopTime=43, checkoutTime=46 done checking out
+Customer 2058476720: shoppingCart=[WONDER, SOURDOUGH], shopTime=1, checkoutTime=50 is checking out
+Customer 942929220: shoppingCart=[RYE], shopTime=25, checkoutTime=40 went to cashier
+Customer 2058476720: shoppingCart=[WONDER, SOURDOUGH], shopTime=1, checkoutTime=50 done checking out
+Customer 1267631201: shoppingCart=[SOURDOUGH, WONDER, RYE], shopTime=98, checkoutTime=18 is checking out
+Customer 1267631201: shoppingCart=[SOURDOUGH, WONDER, RYE], shopTime=98, checkoutTime=18 done checking out
+Customer 2035737251: shoppingCart=[SOURDOUGH], shopTime=56, checkoutTime=28 is checking out
+Customer 2035737251: shoppingCart=[SOURDOUGH], shopTime=56, checkoutTime=28 done checking out
+Customer 942929220: shoppingCart=[RYE], shopTime=25, checkoutTime=40 is checking out
+Customer 942929220: shoppingCart=[RYE], shopTime=25, checkoutTime=40 done checking out
+Customer 478224199: shoppingCart=[SOURDOUGH, WONDER], shopTime=72, checkoutTime=0 done shopping.
+Customer 478224199: shoppingCart=[SOURDOUGH, WONDER], shopTime=72, checkoutTime=0 went to cashier
+Customer 1204988529: shoppingCart=[WONDER, WONDER, SOURDOUGH], shopTime=17, checkoutTime=41 is shopping
+Customer 2129767614: shoppingCart=[SOURDOUGH], shopTime=17, checkoutTime=72 done shopping.
+Customer 478224199: shoppingCart=[SOURDOUGH, WONDER], shopTime=72, checkoutTime=0 is checking out
+Customer 1399392689: shoppingCart=[SOURDOUGH, SOURDOUGH, SOURDOUGH], shopTime=12, checkoutTime=24 done shopping.
+Customer 478224199: shoppingCart=[SOURDOUGH, WONDER], shopTime=72, checkoutTime=0 done checking out
+Customer 1728143567: shoppingCart=[SOURDOUGH], shopTime=62, checkoutTime=56 is shopping
+Customer 2006298705: shoppingCart=[WONDER], shopTime=44, checkoutTime=9 is shopping
+Customer 2129767614: shoppingCart=[SOURDOUGH], shopTime=17, checkoutTime=72 went to cashier
+Customer 1399392689: shoppingCart=[SOURDOUGH, SOURDOUGH, SOURDOUGH], shopTime=12, checkoutTime=24 went to cashier
+Customer 2129767614: shoppingCart=[SOURDOUGH], shopTime=17, checkoutTime=72 is checking out
+No WONDER bread left! Restocking...
+Customer 1728143567: shoppingCart=[SOURDOUGH], shopTime=62, checkoutTime=56 done shopping.
+Customer 1728143567: shoppingCart=[SOURDOUGH], shopTime=62, checkoutTime=56 went to cashier
+Customer 1991701299: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=81, checkoutTime=58 is shopping
+Customer 2129767614: shoppingCart=[SOURDOUGH], shopTime=17, checkoutTime=72 done checking out
+Customer 1399392689: shoppingCart=[SOURDOUGH, SOURDOUGH, SOURDOUGH], shopTime=12, checkoutTime=24 is checking out
+Customer 1399392689: shoppingCart=[SOURDOUGH, SOURDOUGH, SOURDOUGH], shopTime=12, checkoutTime=24 done checking out
+Customer 1728143567: shoppingCart=[SOURDOUGH], shopTime=62, checkoutTime=56 is checking out
+Customer 1991701299: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=81, checkoutTime=58 done shopping.
+Customer 1991701299: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=81, checkoutTime=58 went to cashier
+Customer 390238756: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=78, checkoutTime=77 is shopping
+Customer 1728143567: shoppingCart=[SOURDOUGH], shopTime=62, checkoutTime=56 done checking out
+Customer 1991701299: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=81, checkoutTime=58 is checking out
+Customer 1991701299: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=81, checkoutTime=58 done checking out
+Customer 390238756: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=78, checkoutTime=77 done shopping.
+Customer 390238756: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=78, checkoutTime=77 went to cashier
+Customer 390238756: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=78, checkoutTime=77 is checking out
+Customer 696546844: shoppingCart=[RYE, RYE, SOURDOUGH], shopTime=76, checkoutTime=84 is shopping
+Customer 696546844: shoppingCart=[RYE, RYE, SOURDOUGH], shopTime=76, checkoutTime=84 done shopping.
+Customer 696546844: shoppingCart=[RYE, RYE, SOURDOUGH], shopTime=76, checkoutTime=84 went to cashier
+Customer 1866009352: shoppingCart=[RYE, RYE, WONDER], shopTime=60, checkoutTime=88 is shopping
+Customer 390238756: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=78, checkoutTime=77 done checking out
+Customer 696546844: shoppingCart=[RYE, RYE, SOURDOUGH], shopTime=76, checkoutTime=84 is checking out
+Customer 696546844: shoppingCart=[RYE, RYE, SOURDOUGH], shopTime=76, checkoutTime=84 done checking out
+Customer 1204988529: shoppingCart=[WONDER, WONDER, SOURDOUGH], shopTime=17, checkoutTime=41 done shopping.
+Customer 2006298705: shoppingCart=[WONDER], shopTime=44, checkoutTime=9 done shopping.
+Customer 1866009352: shoppingCart=[RYE, RYE, WONDER], shopTime=60, checkoutTime=88 done shopping.
+Customer 1632989361: shoppingCart=[RYE, RYE], shopTime=62, checkoutTime=11 is shopping
+Customer 1866009352: shoppingCart=[RYE, RYE, WONDER], shopTime=60, checkoutTime=88 went to cashier
+Customer 1866009352: shoppingCart=[RYE, RYE, WONDER], shopTime=60, checkoutTime=88 is checking out
+Customer 2006298705: shoppingCart=[WONDER], shopTime=44, checkoutTime=9 went to cashier
+Customer 357310875: shoppingCart=[RYE], shopTime=99, checkoutTime=42 is shopping
+Customer 1936546891: shoppingCart=[WONDER, SOURDOUGH, WONDER], shopTime=1, checkoutTime=86 is shopping
+Customer 1204988529: shoppingCart=[WONDER, WONDER, SOURDOUGH], shopTime=17, checkoutTime=41 went to cashier
+Customer 1936546891: shoppingCart=[WONDER, SOURDOUGH, WONDER], shopTime=1, checkoutTime=86 done shopping.
+Customer 1936546891: shoppingCart=[WONDER, SOURDOUGH, WONDER], shopTime=1, checkoutTime=86 went to cashier
+Customer 896115579: shoppingCart=[WONDER], shopTime=48, checkoutTime=55 is shopping
+Customer 896115579: shoppingCart=[WONDER], shopTime=48, checkoutTime=55 done shopping.
+Customer 878550551: shoppingCart=[RYE], shopTime=75, checkoutTime=43 is shopping
+Customer 1632989361: shoppingCart=[RYE, RYE], shopTime=62, checkoutTime=11 done shopping.
+Customer 1470553803: shoppingCart=[WONDER, RYE, WONDER], shopTime=13, checkoutTime=80 is shopping
+Customer 1470553803: shoppingCart=[WONDER, RYE, WONDER], shopTime=13, checkoutTime=80 done shopping.
+Customer 1279919191: shoppingCart=[SOURDOUGH], shopTime=17, checkoutTime=45 is shopping
+Customer 1866009352: shoppingCart=[RYE, RYE, WONDER], shopTime=60, checkoutTime=88 done checking out
+Customer 2006298705: shoppingCart=[WONDER], shopTime=44, checkoutTime=9 is checking out
+Customer 896115579: shoppingCart=[WONDER], shopTime=48, checkoutTime=55 went to cashier
+Customer 1279919191: shoppingCart=[SOURDOUGH], shopTime=17, checkoutTime=45 done shopping.
+Customer 233322030: shoppingCart=[SOURDOUGH, WONDER], shopTime=25, checkoutTime=47 is shopping
+Customer 2006298705: shoppingCart=[WONDER], shopTime=44, checkoutTime=9 done checking out
+Customer 1204988529: shoppingCart=[WONDER, WONDER, SOURDOUGH], shopTime=17, checkoutTime=41 is checking out
+Customer 1632989361: shoppingCart=[RYE, RYE], shopTime=62, checkoutTime=11 went to cashier
+Customer 357310875: shoppingCart=[RYE], shopTime=99, checkoutTime=42 done shopping.
+Customer 402556658: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=44, checkoutTime=77 is shopping
+Customer 233322030: shoppingCart=[SOURDOUGH, WONDER], shopTime=25, checkoutTime=47 done shopping.
+Customer 2100324363: shoppingCart=[SOURDOUGH], shopTime=17, checkoutTime=35 is shopping
+Customer 878550551: shoppingCart=[RYE], shopTime=75, checkoutTime=43 done shopping.
+Customer 498102284: shoppingCart=[WONDER, RYE, SOURDOUGH], shopTime=94, checkoutTime=68 is shopping
+Customer 2100324363: shoppingCart=[SOURDOUGH], shopTime=17, checkoutTime=35 done shopping.
+Customer 2016797241: shoppingCart=[WONDER], shopTime=88, checkoutTime=6 is shopping
+Customer 1204988529: shoppingCart=[WONDER, WONDER, SOURDOUGH], shopTime=17, checkoutTime=41 done checking out
+Customer 1936546891: shoppingCart=[WONDER, SOURDOUGH, WONDER], shopTime=1, checkoutTime=86 is checking out
+Customer 1470553803: shoppingCart=[WONDER, RYE, WONDER], shopTime=13, checkoutTime=80 went to cashier
+Customer 402556658: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=44, checkoutTime=77 done shopping.
+Customer 1447480236: shoppingCart=[WONDER, WONDER, WONDER], shopTime=84, checkoutTime=66 is shopping
+No RYE bread left! Restocking...
+Customer 1936546891: shoppingCart=[WONDER, SOURDOUGH, WONDER], shopTime=1, checkoutTime=86 done checking out
+Customer 2016797241: shoppingCart=[WONDER], shopTime=88, checkoutTime=6 done shopping.
+Customer 1279919191: shoppingCart=[SOURDOUGH], shopTime=17, checkoutTime=45 went to cashier
+Customer 896115579: shoppingCart=[WONDER], shopTime=48, checkoutTime=55 is checking out
+Customer 913296450: shoppingCart=[SOURDOUGH, RYE, WONDER], shopTime=32, checkoutTime=0 is shopping
+Customer 1447480236: shoppingCart=[WONDER, WONDER, WONDER], shopTime=84, checkoutTime=66 done shopping.
+Customer 1108420217: shoppingCart=[WONDER], shopTime=18, checkoutTime=34 is shopping
+Customer 1108420217: shoppingCart=[WONDER], shopTime=18, checkoutTime=34 done shopping.
+Customer 486143751: shoppingCart=[WONDER, WONDER], shopTime=53, checkoutTime=13 is shopping
+Customer 896115579: shoppingCart=[WONDER], shopTime=48, checkoutTime=55 done checking out
+Customer 357310875: shoppingCart=[RYE], shopTime=99, checkoutTime=42 went to cashier
+Customer 1632989361: shoppingCart=[RYE, RYE], shopTime=62, checkoutTime=11 is checking out
+Customer 1632989361: shoppingCart=[RYE, RYE], shopTime=62, checkoutTime=11 done checking out
+Customer 1470553803: shoppingCart=[WONDER, RYE, WONDER], shopTime=13, checkoutTime=80 is checking out
+Customer 233322030: shoppingCart=[SOURDOUGH, WONDER], shopTime=25, checkoutTime=47 went to cashier
+Customer 486143751: shoppingCart=[WONDER, WONDER], shopTime=53, checkoutTime=13 done shopping.
+Customer 1798572681: shoppingCart=[SOURDOUGH, WONDER], shopTime=41, checkoutTime=62 is shopping
+Customer 1798572681: shoppingCart=[SOURDOUGH, WONDER], shopTime=41, checkoutTime=62 done shopping.
+Customer 1649499532: shoppingCart=[RYE, RYE, WONDER], shopTime=19, checkoutTime=46 is shopping
+Customer 1470553803: shoppingCart=[WONDER, RYE, WONDER], shopTime=13, checkoutTime=80 done checking out
+Customer 1279919191: shoppingCart=[SOURDOUGH], shopTime=17, checkoutTime=45 is checking out
+Customer 878550551: shoppingCart=[RYE], shopTime=75, checkoutTime=43 went to cashier
+Customer 1279919191: shoppingCart=[SOURDOUGH], shopTime=17, checkoutTime=45 done checking out
+Customer 2100324363: shoppingCart=[SOURDOUGH], shopTime=17, checkoutTime=35 went to cashier
+Customer 2100324363: shoppingCart=[SOURDOUGH], shopTime=17, checkoutTime=35 is checking out
+Customer 2100324363: shoppingCart=[SOURDOUGH], shopTime=17, checkoutTime=35 done checking out
+Customer 357310875: shoppingCart=[RYE], shopTime=99, checkoutTime=42 is checking out
+Customer 402556658: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=44, checkoutTime=77 went to cashier
+Customer 357310875: shoppingCart=[RYE], shopTime=99, checkoutTime=42 done checking out
+Customer 233322030: shoppingCart=[SOURDOUGH, WONDER], shopTime=25, checkoutTime=47 is checking out
+Customer 2016797241: shoppingCart=[WONDER], shopTime=88, checkoutTime=6 went to cashier
+Customer 233322030: shoppingCart=[SOURDOUGH, WONDER], shopTime=25, checkoutTime=47 done checking out
+Customer 878550551: shoppingCart=[RYE], shopTime=75, checkoutTime=43 is checking out
+Customer 1447480236: shoppingCart=[WONDER, WONDER, WONDER], shopTime=84, checkoutTime=66 went to cashier
+Customer 878550551: shoppingCart=[RYE], shopTime=75, checkoutTime=43 done checking out
+Customer 1108420217: shoppingCart=[WONDER], shopTime=18, checkoutTime=34 went to cashier
+Customer 402556658: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=44, checkoutTime=77 is checking out
+Customer 402556658: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=44, checkoutTime=77 done checking out
+Customer 486143751: shoppingCart=[WONDER, WONDER], shopTime=53, checkoutTime=13 went to cashier
+Customer 2016797241: shoppingCart=[WONDER], shopTime=88, checkoutTime=6 is checking out
+Customer 2016797241: shoppingCart=[WONDER], shopTime=88, checkoutTime=6 done checking out
+Customer 1447480236: shoppingCart=[WONDER, WONDER, WONDER], shopTime=84, checkoutTime=66 is checking out
+Customer 1798572681: shoppingCart=[SOURDOUGH, WONDER], shopTime=41, checkoutTime=62 went to cashier
+Customer 1447480236: shoppingCart=[WONDER, WONDER, WONDER], shopTime=84, checkoutTime=66 done checking out
+Customer 1108420217: shoppingCart=[WONDER], shopTime=18, checkoutTime=34 is checking out
+Customer 1108420217: shoppingCart=[WONDER], shopTime=18, checkoutTime=34 done checking out
+Customer 486143751: shoppingCart=[WONDER, WONDER], shopTime=53, checkoutTime=13 is checking out
+Customer 486143751: shoppingCart=[WONDER, WONDER], shopTime=53, checkoutTime=13 done checking out
+Customer 1798572681: shoppingCart=[SOURDOUGH, WONDER], shopTime=41, checkoutTime=62 is checking out
+Customer 1798572681: shoppingCart=[SOURDOUGH, WONDER], shopTime=41, checkoutTime=62 done checking out
+No SOURDOUGH bread left! Restocking...
+Customer 913296450: shoppingCart=[SOURDOUGH, RYE, WONDER], shopTime=32, checkoutTime=0 done shopping.
+No WONDER bread left! Restocking...
+Customer 913296450: shoppingCart=[SOURDOUGH, RYE, WONDER], shopTime=32, checkoutTime=0 went to cashier
+Customer 913296450: shoppingCart=[SOURDOUGH, RYE, WONDER], shopTime=32, checkoutTime=0 is checking out
+Customer 78112011: shoppingCart=[RYE, RYE], shopTime=3, checkoutTime=2 is shopping
+Customer 913296450: shoppingCart=[SOURDOUGH, RYE, WONDER], shopTime=32, checkoutTime=0 done checking out
+Customer 78112011: shoppingCart=[RYE, RYE], shopTime=3, checkoutTime=2 done shopping.
+Customer 78112011: shoppingCart=[RYE, RYE], shopTime=3, checkoutTime=2 went to cashier
+Customer 78112011: shoppingCart=[RYE, RYE], shopTime=3, checkoutTime=2 is checking out
+Customer 1754746791: shoppingCart=[SOURDOUGH], shopTime=43, checkoutTime=6 is shopping
+Customer 78112011: shoppingCart=[RYE, RYE], shopTime=3, checkoutTime=2 done checking out
+Customer 1649499532: shoppingCart=[RYE, RYE, WONDER], shopTime=19, checkoutTime=46 done shopping.
+Customer 1649499532: shoppingCart=[RYE, RYE, WONDER], shopTime=19, checkoutTime=46 went to cashier
+Customer 1649499532: shoppingCart=[RYE, RYE, WONDER], shopTime=19, checkoutTime=46 is checking out
+Customer 1754746791: shoppingCart=[SOURDOUGH], shopTime=43, checkoutTime=6 done shopping.
+Customer 498102284: shoppingCart=[WONDER, RYE, SOURDOUGH], shopTime=94, checkoutTime=68 done shopping.
+Customer 1795212993: shoppingCart=[WONDER, RYE], shopTime=70, checkoutTime=31 is shopping
+Customer 1754746791: shoppingCart=[SOURDOUGH], shopTime=43, checkoutTime=6 went to cashier
+Customer 15056795: shoppingCart=[RYE, RYE, WONDER], shopTime=56, checkoutTime=53 is shopping
+Customer 498102284: shoppingCart=[WONDER, RYE, SOURDOUGH], shopTime=94, checkoutTime=68 went to cashier
+Customer 1399832392: shoppingCart=[WONDER], shopTime=77, checkoutTime=33 is shopping
+Customer 1649499532: shoppingCart=[RYE, RYE, WONDER], shopTime=19, checkoutTime=46 done checking out
+Customer 1754746791: shoppingCart=[SOURDOUGH], shopTime=43, checkoutTime=6 is checking out
+Customer 1754746791: shoppingCart=[SOURDOUGH], shopTime=43, checkoutTime=6 done checking out
+Customer 498102284: shoppingCart=[WONDER, RYE, SOURDOUGH], shopTime=94, checkoutTime=68 is checking out
+Customer 15056795: shoppingCart=[RYE, RYE, WONDER], shopTime=56, checkoutTime=53 done shopping.
+Customer 15056795: shoppingCart=[RYE, RYE, WONDER], shopTime=56, checkoutTime=53 went to cashier
+Customer 5046207: shoppingCart=[WONDER], shopTime=30, checkoutTime=64 is shopping
+Customer 1795212993: shoppingCart=[WONDER, RYE], shopTime=70, checkoutTime=31 done shopping.
+Customer 1795212993: shoppingCart=[WONDER, RYE], shopTime=70, checkoutTime=31 went to cashier
+Customer 1345162545: shoppingCart=[RYE, RYE, SOURDOUGH], shopTime=72, checkoutTime=54 is shopping
+Customer 1399832392: shoppingCart=[WONDER], shopTime=77, checkoutTime=33 done shopping.
+Customer 1399832392: shoppingCart=[WONDER], shopTime=77, checkoutTime=33 went to cashier
+Customer 713970781: shoppingCart=[WONDER, SOURDOUGH], shopTime=40, checkoutTime=93 is shopping
+Customer 5046207: shoppingCart=[WONDER], shopTime=30, checkoutTime=64 done shopping.
+Customer 364032690: shoppingCart=[RYE], shopTime=32, checkoutTime=62 is shopping
+Customer 713970781: shoppingCart=[WONDER, SOURDOUGH], shopTime=40, checkoutTime=93 done shopping.
+Customer 1265403848: shoppingCart=[WONDER, SOURDOUGH, WONDER], shopTime=36, checkoutTime=82 is shopping
+Customer 364032690: shoppingCart=[RYE], shopTime=32, checkoutTime=62 done shopping.
+Customer 2028474042: shoppingCart=[SOURDOUGH], shopTime=54, checkoutTime=92 is shopping
+Customer 498102284: shoppingCart=[WONDER, RYE, SOURDOUGH], shopTime=94, checkoutTime=68 done checking out
+Customer 15056795: shoppingCart=[RYE, RYE, WONDER], shopTime=56, checkoutTime=53 is checking out
+Customer 5046207: shoppingCart=[WONDER], shopTime=30, checkoutTime=64 went to cashier
+Customer 1345162545: shoppingCart=[RYE, RYE, SOURDOUGH], shopTime=72, checkoutTime=54 done shopping.
+Customer 300274779: shoppingCart=[WONDER], shopTime=65, checkoutTime=61 is shopping
+Customer 1265403848: shoppingCart=[WONDER, SOURDOUGH, WONDER], shopTime=36, checkoutTime=82 done shopping.
+Customer 553481945: shoppingCart=[WONDER, RYE, WONDER], shopTime=21, checkoutTime=78 is shopping
+Customer 15056795: shoppingCart=[RYE, RYE, WONDER], shopTime=56, checkoutTime=53 done checking out
+Customer 2028474042: shoppingCart=[SOURDOUGH], shopTime=54, checkoutTime=92 done shopping.
+Customer 2028474042: shoppingCart=[SOURDOUGH], shopTime=54, checkoutTime=92 went to cashier
+Customer 1795212993: shoppingCart=[WONDER, RYE], shopTime=70, checkoutTime=31 is checking out
+Customer 1016792238: shoppingCart=[SOURDOUGH, WONDER], shopTime=71, checkoutTime=92 is shopping
+Customer 553481945: shoppingCart=[WONDER, RYE, WONDER], shopTime=21, checkoutTime=78 done shopping.
+Customer 1944374402: shoppingCart=[RYE], shopTime=53, checkoutTime=66 is shopping
+Customer 1795212993: shoppingCart=[WONDER, RYE], shopTime=70, checkoutTime=31 done checking out
+Customer 713970781: shoppingCart=[WONDER, SOURDOUGH], shopTime=40, checkoutTime=93 went to cashier
+Customer 1399832392: shoppingCart=[WONDER], shopTime=77, checkoutTime=33 is checking out
+Customer 300274779: shoppingCart=[WONDER], shopTime=65, checkoutTime=61 done shopping.
+Customer 728478872: shoppingCart=[SOURDOUGH], shopTime=72, checkoutTime=40 is shopping
+Customer 1944374402: shoppingCart=[RYE], shopTime=53, checkoutTime=66 done shopping.
+Customer 36983092: shoppingCart=[WONDER], shopTime=70, checkoutTime=67 is shopping
+Customer 1399832392: shoppingCart=[WONDER], shopTime=77, checkoutTime=33 done checking out
+Customer 364032690: shoppingCart=[RYE], shopTime=32, checkoutTime=62 went to cashier
+Customer 5046207: shoppingCart=[WONDER], shopTime=30, checkoutTime=64 is checking out
+Customer 1016792238: shoppingCart=[SOURDOUGH, WONDER], shopTime=71, checkoutTime=92 done shopping.
+Customer 220704570: shoppingCart=[RYE, RYE, RYE], shopTime=16, checkoutTime=46 is shopping
+Customer 220704570: shoppingCart=[RYE, RYE, RYE], shopTime=16, checkoutTime=46 done shopping.
+Customer 771712103: shoppingCart=[WONDER], shopTime=75, checkoutTime=95 is shopping
+Customer 728478872: shoppingCart=[SOURDOUGH], shopTime=72, checkoutTime=40 done shopping.
+Customer 2123253566: shoppingCart=[SOURDOUGH, RYE, WONDER], shopTime=76, checkoutTime=79 is shopping
+Customer 36983092: shoppingCart=[WONDER], shopTime=70, checkoutTime=67 done shopping.
+Customer 1337006536: shoppingCart=[WONDER, WONDER, RYE], shopTime=81, checkoutTime=78 is shopping
+Customer 5046207: shoppingCart=[WONDER], shopTime=30, checkoutTime=64 done checking out
+Customer 1345162545: shoppingCart=[RYE, RYE, SOURDOUGH], shopTime=72, checkoutTime=54 went to cashier
+Customer 2028474042: shoppingCart=[SOURDOUGH], shopTime=54, checkoutTime=92 is checking out
+Customer 771712103: shoppingCart=[WONDER], shopTime=75, checkoutTime=95 done shopping.
+Customer 2104060241: shoppingCart=[RYE], shopTime=13, checkoutTime=88 is shopping
+Customer 2104060241: shoppingCart=[RYE], shopTime=13, checkoutTime=88 done shopping.
+Customer 1007445658: shoppingCart=[RYE, SOURDOUGH], shopTime=55, checkoutTime=8 is shopping
+Customer 2123253566: shoppingCart=[SOURDOUGH, RYE, WONDER], shopTime=76, checkoutTime=79 done shopping.
+Customer 415143951: shoppingCart=[SOURDOUGH], shopTime=73, checkoutTime=42 is shopping
+Customer 1337006536: shoppingCart=[WONDER, WONDER, RYE], shopTime=81, checkoutTime=78 done shopping.
+Customer 1005792516: shoppingCart=[RYE], shopTime=2, checkoutTime=19 is shopping
+No RYE bread left! Restocking...
+Customer 2028474042: shoppingCart=[SOURDOUGH], shopTime=54, checkoutTime=92 done checking out
+Customer 713970781: shoppingCart=[WONDER, SOURDOUGH], shopTime=40, checkoutTime=93 is checking out
+Customer 1265403848: shoppingCart=[WONDER, SOURDOUGH, WONDER], shopTime=36, checkoutTime=82 went to cashier
+Customer 415143951: shoppingCart=[SOURDOUGH], shopTime=73, checkoutTime=42 done shopping.
+Customer 1465288452: shoppingCart=[RYE, SOURDOUGH, SOURDOUGH], shopTime=39, checkoutTime=22 is shopping
+Customer 713970781: shoppingCart=[WONDER, SOURDOUGH], shopTime=40, checkoutTime=93 done checking out
+Customer 553481945: shoppingCart=[WONDER, RYE, WONDER], shopTime=21, checkoutTime=78 went to cashier
+Customer 364032690: shoppingCart=[RYE], shopTime=32, checkoutTime=62 is checking out
+Customer 364032690: shoppingCart=[RYE], shopTime=32, checkoutTime=62 done checking out
+Customer 300274779: shoppingCart=[WONDER], shopTime=65, checkoutTime=61 went to cashier
+Customer 1345162545: shoppingCart=[RYE, RYE, SOURDOUGH], shopTime=72, checkoutTime=54 is checking out
+Customer 1345162545: shoppingCart=[RYE, RYE, SOURDOUGH], shopTime=72, checkoutTime=54 done checking out
+Customer 1265403848: shoppingCart=[WONDER, SOURDOUGH, WONDER], shopTime=36, checkoutTime=82 is checking out
+Customer 1944374402: shoppingCart=[RYE], shopTime=53, checkoutTime=66 went to cashier
+Customer 1265403848: shoppingCart=[WONDER, SOURDOUGH, WONDER], shopTime=36, checkoutTime=82 done checking out
+Customer 553481945: shoppingCart=[WONDER, RYE, WONDER], shopTime=21, checkoutTime=78 is checking out
+Customer 1016792238: shoppingCart=[SOURDOUGH, WONDER], shopTime=71, checkoutTime=92 went to cashier
+Customer 553481945: shoppingCart=[WONDER, RYE, WONDER], shopTime=21, checkoutTime=78 done checking out
+Customer 220704570: shoppingCart=[RYE, RYE, RYE], shopTime=16, checkoutTime=46 went to cashier
+Customer 300274779: shoppingCart=[WONDER], shopTime=65, checkoutTime=61 is checking out
+Customer 300274779: shoppingCart=[WONDER], shopTime=65, checkoutTime=61 done checking out
+Customer 728478872: shoppingCart=[SOURDOUGH], shopTime=72, checkoutTime=40 went to cashier
+Customer 1944374402: shoppingCart=[RYE], shopTime=53, checkoutTime=66 is checking out
+Customer 1944374402: shoppingCart=[RYE], shopTime=53, checkoutTime=66 done checking out
+Customer 36983092: shoppingCart=[WONDER], shopTime=70, checkoutTime=67 went to cashier
+Customer 1016792238: shoppingCart=[SOURDOUGH, WONDER], shopTime=71, checkoutTime=92 is checking out
+Customer 1016792238: shoppingCart=[SOURDOUGH, WONDER], shopTime=71, checkoutTime=92 done checking out
+Customer 220704570: shoppingCart=[RYE, RYE, RYE], shopTime=16, checkoutTime=46 is checking out
+Customer 771712103: shoppingCart=[WONDER], shopTime=75, checkoutTime=95 went to cashier
+Customer 220704570: shoppingCart=[RYE, RYE, RYE], shopTime=16, checkoutTime=46 done checking out
+Customer 2104060241: shoppingCart=[RYE], shopTime=13, checkoutTime=88 went to cashier
+Customer 728478872: shoppingCart=[SOURDOUGH], shopTime=72, checkoutTime=40 is checking out
+Customer 728478872: shoppingCart=[SOURDOUGH], shopTime=72, checkoutTime=40 done checking out
+Customer 36983092: shoppingCart=[WONDER], shopTime=70, checkoutTime=67 is checking out
+Customer 2123253566: shoppingCart=[SOURDOUGH, RYE, WONDER], shopTime=76, checkoutTime=79 went to cashier
+Customer 36983092: shoppingCart=[WONDER], shopTime=70, checkoutTime=67 done checking out
+Customer 771712103: shoppingCart=[WONDER], shopTime=75, checkoutTime=95 is checking out
+Customer 1337006536: shoppingCart=[WONDER, WONDER, RYE], shopTime=81, checkoutTime=78 went to cashier
+Customer 771712103: shoppingCart=[WONDER], shopTime=75, checkoutTime=95 done checking out
+Customer 415143951: shoppingCart=[SOURDOUGH], shopTime=73, checkoutTime=42 went to cashier
+Customer 2104060241: shoppingCart=[RYE], shopTime=13, checkoutTime=88 is checking out
+Customer 2104060241: shoppingCart=[RYE], shopTime=13, checkoutTime=88 done checking out
+Customer 2123253566: shoppingCart=[SOURDOUGH, RYE, WONDER], shopTime=76, checkoutTime=79 is checking out
+Customer 1005792516: shoppingCart=[RYE], shopTime=2, checkoutTime=19 done shopping.
+Customer 1005792516: shoppingCart=[RYE], shopTime=2, checkoutTime=19 went to cashier
+Customer 1007445658: shoppingCart=[RYE, SOURDOUGH], shopTime=55, checkoutTime=8 done shopping.
+Customer 1465288452: shoppingCart=[RYE, SOURDOUGH, SOURDOUGH], shopTime=39, checkoutTime=22 done shopping.
+Customer 867464065: shoppingCart=[SOURDOUGH, WONDER], shopTime=75, checkoutTime=22 is shopping
+Customer 570679883: shoppingCart=[SOURDOUGH, RYE, WONDER], shopTime=48, checkoutTime=22 is shopping
+Customer 1379929768: shoppingCart=[WONDER, SOURDOUGH, RYE], shopTime=1, checkoutTime=52 is shopping
+Customer 1379929768: shoppingCart=[WONDER, SOURDOUGH, RYE], shopTime=1, checkoutTime=52 done shopping.
+Customer 1820785992: shoppingCart=[WONDER, SOURDOUGH], shopTime=52, checkoutTime=56 is shopping
+Customer 2123253566: shoppingCart=[SOURDOUGH, RYE, WONDER], shopTime=76, checkoutTime=79 done checking out
+Customer 1007445658: shoppingCart=[RYE, SOURDOUGH], shopTime=55, checkoutTime=8 went to cashier
+Customer 1337006536: shoppingCart=[WONDER, WONDER, RYE], shopTime=81, checkoutTime=78 is checking out
+Customer 570679883: shoppingCart=[SOURDOUGH, RYE, WONDER], shopTime=48, checkoutTime=22 done shopping.
+Customer 708544651: shoppingCart=[RYE, SOURDOUGH], shopTime=61, checkoutTime=90 is shopping
+Customer 1820785992: shoppingCart=[WONDER, SOURDOUGH], shopTime=52, checkoutTime=56 done shopping.
+Customer 899686991: shoppingCart=[RYE, SOURDOUGH, RYE], shopTime=47, checkoutTime=96 is shopping
+No WONDER bread left! Restocking...
+Customer 899686991: shoppingCart=[RYE, SOURDOUGH, RYE], shopTime=47, checkoutTime=96 done shopping.
+Customer 47201519: shoppingCart=[WONDER, SOURDOUGH, SOURDOUGH], shopTime=8, checkoutTime=94 is shopping
+Customer 708544651: shoppingCart=[RYE, SOURDOUGH], shopTime=61, checkoutTime=90 done shopping.
+Customer 1886075826: shoppingCart=[RYE, WONDER, SOURDOUGH], shopTime=50, checkoutTime=26 is shopping
+Customer 1337006536: shoppingCart=[WONDER, WONDER, RYE], shopTime=81, checkoutTime=78 done checking out
+Customer 1465288452: shoppingCart=[RYE, SOURDOUGH, SOURDOUGH], shopTime=39, checkoutTime=22 went to cashier
+Customer 415143951: shoppingCart=[SOURDOUGH], shopTime=73, checkoutTime=42 is checking out
+Customer 415143951: shoppingCart=[SOURDOUGH], shopTime=73, checkoutTime=42 done checking out
+Customer 1379929768: shoppingCart=[WONDER, SOURDOUGH, RYE], shopTime=1, checkoutTime=52 went to cashier
+Customer 1005792516: shoppingCart=[RYE], shopTime=2, checkoutTime=19 is checking out
+Customer 1005792516: shoppingCart=[RYE], shopTime=2, checkoutTime=19 done checking out
+Customer 1007445658: shoppingCart=[RYE, SOURDOUGH], shopTime=55, checkoutTime=8 is checking out
+Customer 570679883: shoppingCart=[SOURDOUGH, RYE, WONDER], shopTime=48, checkoutTime=22 went to cashier
+Customer 1007445658: shoppingCart=[RYE, SOURDOUGH], shopTime=55, checkoutTime=8 done checking out
+Customer 1820785992: shoppingCart=[WONDER, SOURDOUGH], shopTime=52, checkoutTime=56 went to cashier
+Customer 1465288452: shoppingCart=[RYE, SOURDOUGH, SOURDOUGH], shopTime=39, checkoutTime=22 is checking out
+Customer 1465288452: shoppingCart=[RYE, SOURDOUGH, SOURDOUGH], shopTime=39, checkoutTime=22 done checking out
+Customer 899686991: shoppingCart=[RYE, SOURDOUGH, RYE], shopTime=47, checkoutTime=96 went to cashier
+Customer 1379929768: shoppingCart=[WONDER, SOURDOUGH, RYE], shopTime=1, checkoutTime=52 is checking out
+Customer 1379929768: shoppingCart=[WONDER, SOURDOUGH, RYE], shopTime=1, checkoutTime=52 done checking out
+Customer 708544651: shoppingCart=[RYE, SOURDOUGH], shopTime=61, checkoutTime=90 went to cashier
+Customer 570679883: shoppingCart=[SOURDOUGH, RYE, WONDER], shopTime=48, checkoutTime=22 is checking out
+Customer 570679883: shoppingCart=[SOURDOUGH, RYE, WONDER], shopTime=48, checkoutTime=22 done checking out
+Customer 1820785992: shoppingCart=[WONDER, SOURDOUGH], shopTime=52, checkoutTime=56 is checking out
+Customer 1820785992: shoppingCart=[WONDER, SOURDOUGH], shopTime=52, checkoutTime=56 done checking out
+Customer 899686991: shoppingCart=[RYE, SOURDOUGH, RYE], shopTime=47, checkoutTime=96 is checking out
+Customer 899686991: shoppingCart=[RYE, SOURDOUGH, RYE], shopTime=47, checkoutTime=96 done checking out
+Customer 708544651: shoppingCart=[RYE, SOURDOUGH], shopTime=61, checkoutTime=90 is checking out
+Customer 708544651: shoppingCart=[RYE, SOURDOUGH], shopTime=61, checkoutTime=90 done checking out
+Customer 867464065: shoppingCart=[SOURDOUGH, WONDER], shopTime=75, checkoutTime=22 done shopping.
+Customer 867464065: shoppingCart=[SOURDOUGH, WONDER], shopTime=75, checkoutTime=22 went to cashier
+Customer 867464065: shoppingCart=[SOURDOUGH, WONDER], shopTime=75, checkoutTime=22 is checking out
+No SOURDOUGH bread left! Restocking...
+Customer 609743615: shoppingCart=[RYE, RYE], shopTime=0, checkoutTime=33 is shopping
+Customer 609743615: shoppingCart=[RYE, RYE], shopTime=0, checkoutTime=33 done shopping.
+Customer 609743615: shoppingCart=[RYE, RYE], shopTime=0, checkoutTime=33 went to cashier
+Customer 312756827: shoppingCart=[RYE, WONDER, WONDER], shopTime=71, checkoutTime=29 is shopping
+Customer 867464065: shoppingCart=[SOURDOUGH, WONDER], shopTime=75, checkoutTime=22 done checking out
+Customer 609743615: shoppingCart=[RYE, RYE], shopTime=0, checkoutTime=33 is checking out
+Customer 609743615: shoppingCart=[RYE, RYE], shopTime=0, checkoutTime=33 done checking out
+Customer 312756827: shoppingCart=[RYE, WONDER, WONDER], shopTime=71, checkoutTime=29 done shopping.
+Customer 312756827: shoppingCart=[RYE, WONDER, WONDER], shopTime=71, checkoutTime=29 went to cashier
+Customer 155747258: shoppingCart=[WONDER], shopTime=73, checkoutTime=58 is shopping
+Customer 312756827: shoppingCart=[RYE, WONDER, WONDER], shopTime=71, checkoutTime=29 is checking out
+Customer 312756827: shoppingCart=[RYE, WONDER, WONDER], shopTime=71, checkoutTime=29 done checking out
+Customer 155747258: shoppingCart=[WONDER], shopTime=73, checkoutTime=58 done shopping.
+Customer 155747258: shoppingCart=[WONDER], shopTime=73, checkoutTime=58 went to cashier
+Customer 155747258: shoppingCart=[WONDER], shopTime=73, checkoutTime=58 is checking out
+Customer 942864841: shoppingCart=[SOURDOUGH], shopTime=93, checkoutTime=66 is shopping
+Customer 155747258: shoppingCart=[WONDER], shopTime=73, checkoutTime=58 done checking out
+Customer 47201519: shoppingCart=[WONDER, SOURDOUGH, SOURDOUGH], shopTime=8, checkoutTime=94 done shopping.
+Customer 47201519: shoppingCart=[WONDER, SOURDOUGH, SOURDOUGH], shopTime=8, checkoutTime=94 went to cashier
+Customer 47201519: shoppingCart=[WONDER, SOURDOUGH, SOURDOUGH], shopTime=8, checkoutTime=94 is checking out
+Customer 1886075826: shoppingCart=[RYE, WONDER, SOURDOUGH], shopTime=50, checkoutTime=26 done shopping.
+Customer 1347333462: shoppingCart=[WONDER], shopTime=64, checkoutTime=38 is shopping
+Customer 1223342583: shoppingCart=[WONDER], shopTime=85, checkoutTime=89 is shopping
+Customer 942864841: shoppingCart=[SOURDOUGH], shopTime=93, checkoutTime=66 done shopping.
+Customer 942864841: shoppingCart=[SOURDOUGH], shopTime=93, checkoutTime=66 went to cashier
+Customer 1902057208: shoppingCart=[SOURDOUGH, SOURDOUGH, RYE], shopTime=39, checkoutTime=44 is shopping
+Customer 1886075826: shoppingCart=[RYE, WONDER, SOURDOUGH], shopTime=50, checkoutTime=26 went to cashier
+Customer 1902057208: shoppingCart=[SOURDOUGH, SOURDOUGH, RYE], shopTime=39, checkoutTime=44 done shopping.
+Customer 1902057208: shoppingCart=[SOURDOUGH, SOURDOUGH, RYE], shopTime=39, checkoutTime=44 went to cashier
+Customer 1392249449: shoppingCart=[SOURDOUGH, SOURDOUGH, RYE], shopTime=33, checkoutTime=45 is shopping
+Customer 1347333462: shoppingCart=[WONDER], shopTime=64, checkoutTime=38 done shopping.
+Customer 1027040091: shoppingCart=[WONDER], shopTime=22, checkoutTime=29 is shopping
+Customer 1392249449: shoppingCart=[SOURDOUGH, SOURDOUGH, RYE], shopTime=33, checkoutTime=45 done shopping.
+Customer 323247872: shoppingCart=[RYE, RYE, SOURDOUGH], shopTime=33, checkoutTime=94 is shopping
+Customer 1223342583: shoppingCart=[WONDER], shopTime=85, checkoutTime=89 done shopping.
+Customer 118726751: shoppingCart=[RYE, WONDER, WONDER], shopTime=8, checkoutTime=15 is shopping
+Customer 1027040091: shoppingCart=[WONDER], shopTime=22, checkoutTime=29 done shopping.
+Customer 1509653244: shoppingCart=[RYE], shopTime=49, checkoutTime=11 is shopping
+Customer 118726751: shoppingCart=[RYE, WONDER, WONDER], shopTime=8, checkoutTime=15 done shopping.
+Customer 47201519: shoppingCart=[WONDER, SOURDOUGH, SOURDOUGH], shopTime=8, checkoutTime=94 done checking out
+Customer 775326091: shoppingCart=[RYE, RYE, WONDER], shopTime=68, checkoutTime=92 is shopping
+Customer 942864841: shoppingCart=[SOURDOUGH], shopTime=93, checkoutTime=66 is checking out
+Customer 1347333462: shoppingCart=[WONDER], shopTime=64, checkoutTime=38 went to cashier
+Customer 323247872: shoppingCart=[RYE, RYE, SOURDOUGH], shopTime=33, checkoutTime=94 done shopping.
+Customer 1720916315: shoppingCart=[RYE, SOURDOUGH], shopTime=6, checkoutTime=89 is shopping
+Customer 1720916315: shoppingCart=[RYE, SOURDOUGH], shopTime=6, checkoutTime=89 done shopping.
+Customer 1101360123: shoppingCart=[SOURDOUGH, WONDER], shopTime=91, checkoutTime=33 is shopping
+Customer 1509653244: shoppingCart=[RYE], shopTime=49, checkoutTime=11 done shopping.
+Customer 659804066: shoppingCart=[WONDER, RYE], shopTime=34, checkoutTime=87 is shopping
+Customer 942864841: shoppingCart=[SOURDOUGH], shopTime=93, checkoutTime=66 done checking out
+Customer 1886075826: shoppingCart=[RYE, WONDER, SOURDOUGH], shopTime=50, checkoutTime=26 is checking out
+Customer 1392249449: shoppingCart=[SOURDOUGH, SOURDOUGH, RYE], shopTime=33, checkoutTime=45 went to cashier
+No RYE bread left! Restocking...
+Customer 1886075826: shoppingCart=[RYE, WONDER, SOURDOUGH], shopTime=50, checkoutTime=26 done checking out
+Customer 1223342583: shoppingCart=[WONDER], shopTime=85, checkoutTime=89 went to cashier
+Customer 1902057208: shoppingCart=[SOURDOUGH, SOURDOUGH, RYE], shopTime=39, checkoutTime=44 is checking out
+Customer 1101360123: shoppingCart=[SOURDOUGH, WONDER], shopTime=91, checkoutTime=33 done shopping.
+Customer 764792017: shoppingCart=[RYE, SOURDOUGH], shopTime=12, checkoutTime=13 is shopping
+Customer 1902057208: shoppingCart=[SOURDOUGH, SOURDOUGH, RYE], shopTime=39, checkoutTime=44 done checking out
+Customer 1347333462: shoppingCart=[WONDER], shopTime=64, checkoutTime=38 is checking out
+Customer 1027040091: shoppingCart=[WONDER], shopTime=22, checkoutTime=29 went to cashier
+Customer 1347333462: shoppingCart=[WONDER], shopTime=64, checkoutTime=38 done checking out
+Customer 118726751: shoppingCart=[RYE, WONDER, WONDER], shopTime=8, checkoutTime=15 went to cashier
+Customer 1392249449: shoppingCart=[SOURDOUGH, SOURDOUGH, RYE], shopTime=33, checkoutTime=45 is checking out
+Customer 1392249449: shoppingCart=[SOURDOUGH, SOURDOUGH, RYE], shopTime=33, checkoutTime=45 done checking out
+Customer 1223342583: shoppingCart=[WONDER], shopTime=85, checkoutTime=89 is checking out
+Customer 323247872: shoppingCart=[RYE, RYE, SOURDOUGH], shopTime=33, checkoutTime=94 went to cashier
+Customer 1223342583: shoppingCart=[WONDER], shopTime=85, checkoutTime=89 done checking out
+Customer 1720916315: shoppingCart=[RYE, SOURDOUGH], shopTime=6, checkoutTime=89 went to cashier
+Customer 1027040091: shoppingCart=[WONDER], shopTime=22, checkoutTime=29 is checking out
+Customer 1027040091: shoppingCart=[WONDER], shopTime=22, checkoutTime=29 done checking out
+Customer 118726751: shoppingCart=[RYE, WONDER, WONDER], shopTime=8, checkoutTime=15 is checking out
+Customer 1509653244: shoppingCart=[RYE], shopTime=49, checkoutTime=11 went to cashier
+Customer 118726751: shoppingCart=[RYE, WONDER, WONDER], shopTime=8, checkoutTime=15 done checking out
+Customer 1101360123: shoppingCart=[SOURDOUGH, WONDER], shopTime=91, checkoutTime=33 went to cashier
+Customer 323247872: shoppingCart=[RYE, RYE, SOURDOUGH], shopTime=33, checkoutTime=94 is checking out
+Customer 323247872: shoppingCart=[RYE, RYE, SOURDOUGH], shopTime=33, checkoutTime=94 done checking out
+Customer 1720916315: shoppingCart=[RYE, SOURDOUGH], shopTime=6, checkoutTime=89 is checking out
+Customer 1720916315: shoppingCart=[RYE, SOURDOUGH], shopTime=6, checkoutTime=89 done checking out
+Customer 1509653244: shoppingCart=[RYE], shopTime=49, checkoutTime=11 is checking out
+Customer 1509653244: shoppingCart=[RYE], shopTime=49, checkoutTime=11 done checking out
+Customer 1101360123: shoppingCart=[SOURDOUGH, WONDER], shopTime=91, checkoutTime=33 is checking out
+Customer 1101360123: shoppingCart=[SOURDOUGH, WONDER], shopTime=91, checkoutTime=33 done checking out
+Customer 775326091: shoppingCart=[RYE, RYE, WONDER], shopTime=68, checkoutTime=92 done shopping.
+Customer 775326091: shoppingCart=[RYE, RYE, WONDER], shopTime=68, checkoutTime=92 went to cashier
+Customer 775326091: shoppingCart=[RYE, RYE, WONDER], shopTime=68, checkoutTime=92 is checking out
+Customer 659804066: shoppingCart=[WONDER, RYE], shopTime=34, checkoutTime=87 done shopping.
+Customer 764792017: shoppingCart=[RYE, SOURDOUGH], shopTime=12, checkoutTime=13 done shopping.
+Customer 659804066: shoppingCart=[WONDER, RYE], shopTime=34, checkoutTime=87 went to cashier
+Customer 1488121310: shoppingCart=[SOURDOUGH, RYE], shopTime=9, checkoutTime=82 is shopping
+Customer 764792017: shoppingCart=[RYE, SOURDOUGH], shopTime=12, checkoutTime=13 went to cashier
+Customer 771904965: shoppingCart=[SOURDOUGH], shopTime=64, checkoutTime=19 is shopping
+Customer 1172779491: shoppingCart=[RYE, RYE], shopTime=50, checkoutTime=18 is shopping
+Customer 1488121310: shoppingCart=[SOURDOUGH, RYE], shopTime=9, checkoutTime=82 done shopping.
+Customer 1488121310: shoppingCart=[SOURDOUGH, RYE], shopTime=9, checkoutTime=82 went to cashier
+Customer 376253249: shoppingCart=[SOURDOUGH], shopTime=28, checkoutTime=95 is shopping
+Customer 376253249: shoppingCart=[SOURDOUGH], shopTime=28, checkoutTime=95 done shopping.
+Customer 1162768850: shoppingCart=[SOURDOUGH, WONDER, RYE], shopTime=49, checkoutTime=62 is shopping
+Customer 1172779491: shoppingCart=[RYE, RYE], shopTime=50, checkoutTime=18 done shopping.
+Customer 1038786499: shoppingCart=[RYE, WONDER, WONDER], shopTime=77, checkoutTime=60 is shopping
+Customer 771904965: shoppingCart=[SOURDOUGH], shopTime=64, checkoutTime=19 done shopping.
+Customer 1871499112: shoppingCart=[WONDER], shopTime=28, checkoutTime=87 is shopping
+Customer 1162768850: shoppingCart=[SOURDOUGH, WONDER, RYE], shopTime=49, checkoutTime=62 done shopping.
+Customer 1353723488: shoppingCart=[RYE, SOURDOUGH], shopTime=59, checkoutTime=57 is shopping
+Customer 775326091: shoppingCart=[RYE, RYE, WONDER], shopTime=68, checkoutTime=92 done checking out
+Customer 376253249: shoppingCart=[SOURDOUGH], shopTime=28, checkoutTime=95 went to cashier
+Customer 659804066: shoppingCart=[WONDER, RYE], shopTime=34, checkoutTime=87 is checking out
+Customer 1871499112: shoppingCart=[WONDER], shopTime=28, checkoutTime=87 done shopping.
+Customer 355404112: shoppingCart=[RYE, WONDER, WONDER], shopTime=31, checkoutTime=49 is shopping
+Customer 355404112: shoppingCart=[RYE, WONDER, WONDER], shopTime=31, checkoutTime=49 done shopping.
+Customer 242094273: shoppingCart=[RYE], shopTime=83, checkoutTime=22 is shopping
+Customer 1038786499: shoppingCart=[RYE, WONDER, WONDER], shopTime=77, checkoutTime=60 done shopping.
+Customer 1711271074: shoppingCart=[WONDER, SOURDOUGH, RYE], shopTime=86, checkoutTime=21 is shopping
+Customer 1353723488: shoppingCart=[RYE, SOURDOUGH], shopTime=59, checkoutTime=57 done shopping.
+Customer 1424447491: shoppingCart=[WONDER], shopTime=0, checkoutTime=47 is shopping
+No WONDER bread left! Restocking...
+Customer 659804066: shoppingCart=[WONDER, RYE], shopTime=34, checkoutTime=87 done checking out
+Customer 764792017: shoppingCart=[RYE, SOURDOUGH], shopTime=12, checkoutTime=13 is checking out
+Customer 1172779491: shoppingCart=[RYE, RYE], shopTime=50, checkoutTime=18 went to cashier
+Customer 764792017: shoppingCart=[RYE, SOURDOUGH], shopTime=12, checkoutTime=13 done checking out
+Customer 771904965: shoppingCart=[SOURDOUGH], shopTime=64, checkoutTime=19 went to cashier
+Customer 1488121310: shoppingCart=[SOURDOUGH, RYE], shopTime=9, checkoutTime=82 is checking out
+Customer 242094273: shoppingCart=[RYE], shopTime=83, checkoutTime=22 done shopping.
+Customer 921066650: shoppingCart=[RYE], shopTime=43, checkoutTime=81 is shopping
+Customer 921066650: shoppingCart=[RYE], shopTime=43, checkoutTime=81 done shopping.
+Customer 2040106329: shoppingCart=[WONDER], shopTime=59, checkoutTime=92 is shopping
+Customer 1488121310: shoppingCart=[SOURDOUGH, RYE], shopTime=9, checkoutTime=82 done checking out
+Customer 1162768850: shoppingCart=[SOURDOUGH, WONDER, RYE], shopTime=49, checkoutTime=62 went to cashier
+Customer 376253249: shoppingCart=[SOURDOUGH], shopTime=28, checkoutTime=95 is checking out
+Customer 376253249: shoppingCart=[SOURDOUGH], shopTime=28, checkoutTime=95 done checking out
+Customer 1871499112: shoppingCart=[WONDER], shopTime=28, checkoutTime=87 went to cashier
+Customer 1172779491: shoppingCart=[RYE, RYE], shopTime=50, checkoutTime=18 is checking out
+Customer 1172779491: shoppingCart=[RYE, RYE], shopTime=50, checkoutTime=18 done checking out
+Customer 771904965: shoppingCart=[SOURDOUGH], shopTime=64, checkoutTime=19 is checking out
+Customer 355404112: shoppingCart=[RYE, WONDER, WONDER], shopTime=31, checkoutTime=49 went to cashier
+Customer 771904965: shoppingCart=[SOURDOUGH], shopTime=64, checkoutTime=19 done checking out
+Customer 1038786499: shoppingCart=[RYE, WONDER, WONDER], shopTime=77, checkoutTime=60 went to cashier
+Customer 1162768850: shoppingCart=[SOURDOUGH, WONDER, RYE], shopTime=49, checkoutTime=62 is checking out
+Customer 1162768850: shoppingCart=[SOURDOUGH, WONDER, RYE], shopTime=49, checkoutTime=62 done checking out
+Customer 1353723488: shoppingCart=[RYE, SOURDOUGH], shopTime=59, checkoutTime=57 went to cashier
+Customer 1871499112: shoppingCart=[WONDER], shopTime=28, checkoutTime=87 is checking out
+Customer 1871499112: shoppingCart=[WONDER], shopTime=28, checkoutTime=87 done checking out
+Customer 355404112: shoppingCart=[RYE, WONDER, WONDER], shopTime=31, checkoutTime=49 is checking out
+Customer 242094273: shoppingCart=[RYE], shopTime=83, checkoutTime=22 went to cashier
+Customer 355404112: shoppingCart=[RYE, WONDER, WONDER], shopTime=31, checkoutTime=49 done checking out
+Customer 1038786499: shoppingCart=[RYE, WONDER, WONDER], shopTime=77, checkoutTime=60 is checking out
+Customer 921066650: shoppingCart=[RYE], shopTime=43, checkoutTime=81 went to cashier
+Customer 1038786499: shoppingCart=[RYE, WONDER, WONDER], shopTime=77, checkoutTime=60 done checking out
+Customer 1353723488: shoppingCart=[RYE, SOURDOUGH], shopTime=59, checkoutTime=57 is checking out
+Customer 1353723488: shoppingCart=[RYE, SOURDOUGH], shopTime=59, checkoutTime=57 done checking out
+Customer 242094273: shoppingCart=[RYE], shopTime=83, checkoutTime=22 is checking out
+Customer 242094273: shoppingCart=[RYE], shopTime=83, checkoutTime=22 done checking out
+Customer 921066650: shoppingCart=[RYE], shopTime=43, checkoutTime=81 is checking out
+Customer 921066650: shoppingCart=[RYE], shopTime=43, checkoutTime=81 done checking out
+Customer 1424447491: shoppingCart=[WONDER], shopTime=0, checkoutTime=47 done shopping.
+Customer 1424447491: shoppingCart=[WONDER], shopTime=0, checkoutTime=47 went to cashier
+Customer 1424447491: shoppingCart=[WONDER], shopTime=0, checkoutTime=47 is checking out
+Customer 1711271074: shoppingCart=[WONDER, SOURDOUGH, RYE], shopTime=86, checkoutTime=21 done shopping.
+Customer 1210396922: shoppingCart=[RYE, RYE], shopTime=7, checkoutTime=50 is shopping
+Customer 1711271074: shoppingCart=[WONDER, SOURDOUGH, RYE], shopTime=86, checkoutTime=21 went to cashier
+Customer 1852387217: shoppingCart=[WONDER], shopTime=59, checkoutTime=99 is shopping
+Customer 2040106329: shoppingCart=[WONDER], shopTime=59, checkoutTime=92 done shopping.
+Customer 2040106329: shoppingCart=[WONDER], shopTime=59, checkoutTime=92 went to cashier
+Customer 1194774294: shoppingCart=[SOURDOUGH], shopTime=96, checkoutTime=49 is shopping
+Customer 1210396922: shoppingCart=[RYE, RYE], shopTime=7, checkoutTime=50 done shopping.
+Customer 1210396922: shoppingCart=[RYE, RYE], shopTime=7, checkoutTime=50 went to cashier
+Customer 1761476540: shoppingCart=[WONDER], shopTime=47, checkoutTime=68 is shopping
+Customer 1424447491: shoppingCart=[WONDER], shopTime=0, checkoutTime=47 done checking out
+Customer 1711271074: shoppingCart=[WONDER, SOURDOUGH, RYE], shopTime=86, checkoutTime=21 is checking out
+Customer 1761476540: shoppingCart=[WONDER], shopTime=47, checkoutTime=68 done shopping.
+Customer 1761476540: shoppingCart=[WONDER], shopTime=47, checkoutTime=68 went to cashier
+Customer 946595992: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=48, checkoutTime=15 is shopping
+Customer 1852387217: shoppingCart=[WONDER], shopTime=59, checkoutTime=99 done shopping.
+Customer 999085707: shoppingCart=[WONDER], shopTime=71, checkoutTime=63 is shopping
+Customer 1711271074: shoppingCart=[WONDER, SOURDOUGH, RYE], shopTime=86, checkoutTime=21 done checking out
+Customer 1852387217: shoppingCart=[WONDER], shopTime=59, checkoutTime=99 went to cashier
+Customer 2040106329: shoppingCart=[WONDER], shopTime=59, checkoutTime=92 is checking out
+Customer 1194774294: shoppingCart=[SOURDOUGH], shopTime=96, checkoutTime=49 done shopping.
+Customer 179539546: shoppingCart=[SOURDOUGH, WONDER, WONDER], shopTime=55, checkoutTime=32 is shopping
+Customer 946595992: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=48, checkoutTime=15 done shopping.
+Customer 1572607356: shoppingCart=[RYE, SOURDOUGH, WONDER], shopTime=57, checkoutTime=14 is shopping
+Customer 999085707: shoppingCart=[WONDER], shopTime=71, checkoutTime=63 done shopping.
+Customer 25078275: shoppingCart=[RYE, RYE], shopTime=97, checkoutTime=67 is shopping
+No SOURDOUGH bread left! Restocking...
+Customer 2040106329: shoppingCart=[WONDER], shopTime=59, checkoutTime=92 done checking out
+Customer 1194774294: shoppingCart=[SOURDOUGH], shopTime=96, checkoutTime=49 went to cashier
+Customer 1194774294: shoppingCart=[SOURDOUGH], shopTime=96, checkoutTime=49 is checking out
+Customer 1194774294: shoppingCart=[SOURDOUGH], shopTime=96, checkoutTime=49 done checking out
+Customer 1210396922: shoppingCart=[RYE, RYE], shopTime=7, checkoutTime=50 is checking out
+Customer 946595992: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=48, checkoutTime=15 went to cashier
+Customer 25078275: shoppingCart=[RYE, RYE], shopTime=97, checkoutTime=67 done shopping.
+Customer 1210396922: shoppingCart=[RYE, RYE], shopTime=7, checkoutTime=50 done checking out
+Customer 999085707: shoppingCart=[WONDER], shopTime=71, checkoutTime=63 went to cashier
+Customer 1761476540: shoppingCart=[WONDER], shopTime=47, checkoutTime=68 is checking out
+Customer 1761476540: shoppingCart=[WONDER], shopTime=47, checkoutTime=68 done checking out
+Customer 1852387217: shoppingCart=[WONDER], shopTime=59, checkoutTime=99 is checking out
+Customer 25078275: shoppingCart=[RYE, RYE], shopTime=97, checkoutTime=67 went to cashier
+Customer 1852387217: shoppingCart=[WONDER], shopTime=59, checkoutTime=99 done checking out
+Customer 946595992: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=48, checkoutTime=15 is checking out
+Customer 946595992: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=48, checkoutTime=15 done checking out
+Customer 999085707: shoppingCart=[WONDER], shopTime=71, checkoutTime=63 is checking out
+Customer 999085707: shoppingCart=[WONDER], shopTime=71, checkoutTime=63 done checking out
+Customer 25078275: shoppingCart=[RYE, RYE], shopTime=97, checkoutTime=67 is checking out
+Customer 25078275: shoppingCart=[RYE, RYE], shopTime=97, checkoutTime=67 done checking out
+Customer 179539546: shoppingCart=[SOURDOUGH, WONDER, WONDER], shopTime=55, checkoutTime=32 done shopping.
+Customer 1572607356: shoppingCart=[RYE, SOURDOUGH, WONDER], shopTime=57, checkoutTime=14 done shopping.
+Customer 179539546: shoppingCart=[SOURDOUGH, WONDER, WONDER], shopTime=55, checkoutTime=32 went to cashier
+Customer 1572607356: shoppingCart=[RYE, SOURDOUGH, WONDER], shopTime=57, checkoutTime=14 went to cashier
+Customer 179539546: shoppingCart=[SOURDOUGH, WONDER, WONDER], shopTime=55, checkoutTime=32 is checking out
+Customer 179539546: shoppingCart=[SOURDOUGH, WONDER, WONDER], shopTime=55, checkoutTime=32 done checking out
+Customer 1572607356: shoppingCart=[RYE, SOURDOUGH, WONDER], shopTime=57, checkoutTime=14 is checking out
+Customer 1572607356: shoppingCart=[RYE, SOURDOUGH, WONDER], shopTime=57, checkoutTime=14 done checking out
+Total sales = 1932.11
